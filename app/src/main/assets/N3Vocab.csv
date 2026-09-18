@@ -1,0 +1,388 @@
+﻿#,語彙,Vocabulary,Type,Meaning
+1,明かり,akari,Noun,light; illumination; glow; gleam
+,,あかり,,
+2,明ける,akeru,"Verb, Ichidan verb, Transitive verb","to dawn,to become daylight"
+,,あける,,
+3,明らか,akiraka,"Adjective, な-adjective",clear; obvious
+,,あきらか,,
+4,悪魔,akuma,Noun,devil; demon; fiend; Satan
+,,あくま,,
+5,暗記,anki,"Noun, Verb, Suru verb",memorization; learning by heart
+,,あんき,,
+6,新た,arata,"Noun, Adjective, な-adjective",new; fresh; novel
+,,あらた,,
+7,有らゆる,arayuru,Pre-noun adjectival,all; every​
+,,あらゆる,,
+8,集まり,atsumari,Noun,gathering; meeting; assembly; collection; attendance
+,,あつまり,,
+9,部分,bubun,Noun,portion; section; part
+,,ぶぶん,,
+10,分,bun,"Noun, Suffix",part; segment; share; ration
+,,ぶん,,
+11,文明,bunmei,Noun,civilization; culture
+,,ぶんめい,,
+12,分析,bunseki,"Noun, Verb, Suru verb",analysis
+,,ぶんせき,,
+13,分野,bunya,Noun,field; sphere; realm; division; branch
+,,ぶんや,,
+14,父親,chichioya,Noun,father
+,,ちちおや,,
+15,地平線,chiheisen,Noun,horizon (related to land)​
+,,ちへいせん,,
+16,地位,chii,Noun,(social) position; status
+,,ちい,,
+17,長期,chouki,Noun,long-term
+,,ちょうき,,
+18,中,chuu,"Noun, Prefix, Suffix",during; while; medium; middle
+,,ちゅう,,
+19,中学,chuugaku,Noun,junior high school; middle school
+,,ちゅうがく,,
+20,昼食,chuushoku,Noun,lunch; midday meal
+,,ちゅうしょく,,
+21,大部分,daibubun,Noun,most part; greater part; majority
+,,だいぶぶん,,
+,,,,
+22,駄目,dame,"Noun, Adjective, な-adjective",no good; cannot
+,,だめ,,
+23,男子,danshi,Noun,youth; young man
+,,だんし,,
+24,出会い,deai,Noun,meeting; rendezvous; encounter
+,,であい,,
+25,出会う,deau,Verb,to meet (by chance); to come across; to run across; to encounter
+,,であう,,
+26,読書,dokusho,"Noun, Verb, Suru verb",reading
+,,どくしょ,,
+27,努力,doryoku,"Noun, Verb, Suru verb",effort; exertion; endeavor; hard work; striving
+,,どりょく,,
+28,同一,douitsu,"Adjective, な-adjective",identical; same; one and the same; equal
+,,どういつ,,
+29,円,en,Noun,yen; Japanese monetary unit; circle
+,,えん,,
+30,不利,furi,"Noun, Adjective, な-adjective",disadvantage; handicap; unfavorable position
+,,ふり,,
+31,不足,fusoku,"Noun, Adjective, な-adjective, Verb, Suru verb",insufficiency; shortage; deficiency; lack; dearth
+,,ふそく,,
+32,再び,futatabi,Adverb,again; once more; a second time
+,,ふたたび,,
+33,外交,gaikou,Noun,diplomacy
+,,がいこう,,
+34,外出,gaishutsu,"Noun, Verb, Suru verb","going out; outing; leaving (one's home, office, etc.)"
+,,がいしゅつ,,
+35,学期,gakki,Noun,school term; semester
+,,がっき,,
+36,学,gaku,"Noun, Suffix",learning; education; study of
+,,がく,,
+37,学問,gakumon,"Noun, Verb, Suru verb",scholarship; study; learning
+,,がくもん,,
+38,学者,gakusha,Noun,scholar
+,,がくしゃ,,
+39,学習,gakushuu,"Noun, Verb, Suru verb",study; learning; tutorial
+,,がくしゅう,,
+40,議長,gichou,Noun,chairman; president; moderator
+,,ぎちょう,,
+41,議会,gikai,Noun,congress; parliament; diet; legislative assembly
+,,ぎかい,,
+42,語学,gogaku,Noun,study of foreign languages; linguistics
+,,ごがく,,
+43,激しい,hageshii,"Adjective, い-adjective",violent; extreme; intense
+,,はげしい,,
+44,母親,hahaoya,Noun,mother
+,,ははおや,,
+45,博物館,hakubutsukan,Noun,museum
+,,はくぶつかん,,
+46,販売,hanbai,"Noun, Verb, Suru verb",sales; selling; marketing
+,,はんばい,,
+47,発明,hatsumei,"Noun, Adjective, な-adjective, Verb, Suru verb",invention
+,,はつめい,,
+48,外す,hazusu,"Verb, Godan verb, Transitive verb",to remove; to undo; to drop; to miss
+,,はずす,,
+49,品,hin,Noun,"elegance, article"
+,,ひん,,
+50,一言,hitokoto,"Noun, Verb, Suru verb",single word; a few words; brief comment
+,,ひとこと,,
+51,一人一人,hitorihitori,"Noun, Suffix",one by one; each; one at a time
+,,ひとりひとり,,
+52,本物,honmono,Noun,genuine article; real thing; real deal​
+,,ほんもの,,
+53,本人,honnin,Noun,the person in question; the person themselves; said person
+,,ほんにん,,
+54,一致,icchi,"Noun, Verb, Suru verb",agreement; union; match​; coincidence
+,,いっち,,
+55,一時,ichiji,Noun,one o'clock
+,,いちじ,,
+56,意外,igai,"Adjective, な-adjective, Adverb",unexpected; surprising
+,,いがい,,
+57,一家,ikka,Noun,a family; a household; a home; one's family; whole family
+,,いっか,,
+58,今に,imani,Adverb,before long; even now
+,,いまに,,
+59,今にも,imanimo,Adverb,at any moment; at any minute; on the verge of
+,,いまにも,,
+60,一般,ippan,"Noun, Adjective, な-adjective",general; universal; ordinary; average; common
+,,いっぱん,,
+61,一方,ippou,Noun,one (esp. of two); one way; the other direction; although
+,,いっぽう,,
+62,一生,isshou,Noun,whole life; a lifetime; a generation
+,,いっしょう,,
+63,一種,isshu,"Noun, Adverb",species; kind; variety
+,,いっしゅ,,
+,,,,
+64,一瞬,isshun,Noun,instant; moment; for an instant
+,,いっしゅん,,
+65,一層,issou,"Noun, Adverb",much more; still more; all the more; single layer; sooner; preferably​
+,,いっそう,,
+66,一体,ittai,"Noun, Adverb",(what) the heck; (why) in the world
+,,いったい,,
+67,所謂,iwayuru,Pre-noun adjectival,what is called; as it is called; the so-called; so to speak​
+,,いわゆる,,
+68,邪魔,jama,"Noun, Adjective, な-adjective, Suru verb",hindrance
+,,じゃま,,
+69,化学,kagaku,Noun,chemistry
+,,かがく,,
+70,会,kai,"Noun, Suffix",meeting; assembly; party; association; club
+,,かい,,
+71,会員,kai'in,Noun,member
+,,かいいん,,
+72,海外,kaigai,"Noun, Adjective",foreign; abroad; overseas
+,,かいがい,,
+73,会合,kaigou,"Noun, Verb, Suru verb",meeting; assembly; gathering; association
+,,かいごう,,
+74,会計,kaikei,Noun,finance; account; treasurer; bill
+,,かいけい,,
+75,開始,kaishi,"Noun, Verb, Suru verb",start; commencement; beginning; initiation​
+,,かいし,,
+76,科目,kamoku,Noun,(school) subject; curriculum; course
+,,かもく,,
+77,権利,kenri,Noun,right; privilege
+,,けんり,,
+78,基本,kihon,Noun,basics; fundamentals; basis; foundation
+,,きほん,,
+79,記事,kiji,Noun,article; news story; report; account
+,,きじ,,
+80,気味,kimi,Noun,sensation; feeling​; tendency
+,,きみ,,
+81,記念,kinen,"Noun, Verb, Suru verb",commemoration; celebration; honoring the memory of something
+,,きねん,,
+82,気に入る,kiniiru,"Verb, Godan verb, Expression",to like; to take a liking to
+,,きにいる,,
+83,記入,kinyuu,"Noun, Verb, Suru verb",entry; filling in; filling out
+,,きにゅう,,
+84,記憶,kioku,"Noun, Verb, Suru verb",memory; recollection; remembrance
+,,きおく,,
+,,,,
+85,記者,kisha,Noun,reporter; journalist
+,,きしゃ,,
+86,期待,kitai,"Noun, Verb, Suru verb",expectation; anticipation; hope
+,,きたい,,
+87,国家,kokka,Noun,state; country; nation
+,,こっか,,
+88,国会,kokkai,Noun,National Diet; legislative assembly of Japan; parliament; congress
+,,こっかい,,
+89,国境,kokkyou,Noun,national border
+,,こっきょう,,
+90,国語,kokugo,Noun,national language
+,,こくご,,
+91,国民,kokumin,Noun,people (of a country); nation; citizen; national
+,,こくみん,,
+92,今後,kongo,"Noun, Adverbial Noun",from now on; hereafter
+,,こんご,,
+93,今回,konkai,"Noun, Adverbial Noun",now; this time; lately
+,,こんかい,,
+94,今日,konnichi,Expression,today; this day
+,,こんにち,,
+95,転ぶ,korobu,"Verb, Godan verb, Intransitive verb",to fall down; to fall over
+,,ころぶ,,
+96,高速,kousoku,"Noun, Adjective, な-adjective",high-speed; rapid; express
+,,こうそく,,
+97,訓練,kunren,"Noun, Verb, Suru verb",training; drill; practice; discipline
+,,くんれん,,
+98,教科書,kyoukasho,Noun,textbook; coursebook; schoolbook
+,,きょうかしょ,,
+99,協力,kyouryoku,"Noun, Verb, Suru verb",cooperation; collaboration
+,,きょうりょく,,
+100,強力,kyouryoku,"Noun, Adjective, な-adjective",powerful; strong
+,,きょうりょく,,
+101,急激,kyuugeki,"Adjective, な-adjective",sudden; abrupt; rapid; sharp; drastic; radical
+,,きゅうげき,,
+102,急に,kyuuni,Adverb,swiftly; rapidly; quickly; immediately; hastily
+,,きゅうに,,
+103,吸収,kyuushuu,"Noun, Verb, Suru verb",absorption; suction; attraction
+,,きゅうしゅう,,
+104,急速,kyuusoku,"Noun, Adjective, な-adjective",rapid (e.g. progress)
+,,きゅうそく,,
+105,真面目,majime,"Noun, Adjective, な-adjective",serious; earnest
+,,まじめ,,
+106,真っ赤,makka,"Noun, Adjective, な-adjective",bright red; deep red; flushed (of face)
+,,まっか,,
+107,学ぶ,manabu,"Verb, Godan verb, Transitive verb",to study (in depth); to learn; to take lessons in
+,,まなぶ,,
+108,万一,manichi,"Noun, Adverb",emergency; unlikely event​; by some chance; by some possibility
+,,まんいち,,
+109,満足,manzoku,"Noun, Adjective, な-adjective, Verb, Suru verb",satisfaction; contentment;​ sufficient; enough
+,,まんぞく,,
+110,明確,meikaku,"Adjective, な-adjective",clear; precise; definite; distinct
+,,めいかく,,
+111,飯,meshi,Noun,cooked rice; meal
+,,めし,,
+112,味方,mikata,"Noun, Verb, Suru verb",friend; ally; supporter; taking sides with; supporting
+,,みかた,,
+113,魅力,miryoku,Noun,charm; fascination; glamour; attraction; appeal
+,,みりょく,,
+114,木曜,mokuyou,"Noun, Adverbial Noun",Thursday
+,,もくよう,,
+115,半ば,nakaba,"Noun, Adverbial Noun, Suffix, Adverbial noun",middle; half; semi; halfway; partly
+,,なかば,,
+116,熱心,nesshin,"Noun, Adjective, な-adjective",enthusiastic; eager
+,,ねっしん,,
+117,日本,nihon,Noun,Japan
+,,にほん,,
+118,能力,nouryoku,Noun,ability; faculty
+,,のうりょく,,
+119,入場,nyuujou,"Noun, Verb, Suru verb",entrance; admission; entering
+,,にゅうじょう,,
+120,お昼,ohiru,Noun,lunch; midday; daytime
+,,おひる,,
+121,収める,osameru,"Verb, Ichidan verb, Transitive verb",to supply; to dedicate; to make an offering; to pay
+,,おさめる,,
+122,連続,renzoku,"Noun, Verb, Suru verb",continuation; succession; series
+,,れんぞく,,
+123,利益,rieki,"Noun, Verb, Suru verb",profit; gains; benefit
+,,りえき,,
+124,利口,rikou,"Noun, Adjective, な-adjective",clever; intelligent; wise; bright; sharp
+,,りこう,,
+125,留学,ryuugaku,"Noun, Verb, Suru verb",studying abroad
+,,りゅうがく,,
+126,作品,sakuhin,Noun,work of art; performance
+,,さくひん,,
+127,左右,sayuu,"Noun, Verb, Suru verb",left and right
+,,さゆう,,
+128,成長,seichou,"Noun, Verb, Suru verb",growth; development; growing up; becoming an adult
+,,せいちょう,,
+129,製品,seihin,Noun,manufactured goods; finished goods; product
+,,せいひん,,
+130,青年,seinen,Noun,youth; young man
+,,せいねん,,
+131,刺激,shigeki,"Noun, Verb, Suru verb",stimulus; impetus; incentive; encouragement; motivation; provocation; excitement; thrill
+,,しげき,,
+132,資本,shihon,Noun,funds; capital
+,,しほん,,
+133,品,shina,Noun,article; item; thing; goods; stock; quality
+,,しな,,
+134,身長,shinchou,Noun,body height; stature
+,,しんちょう,,
+135,進学,shingaku,"Noun, Verb, Suru verb",entering a higher-level school (often university)
+,,しんがく,,
+136,新鮮,shinsen,"Adjective, な-adjective",fresh
+,,しんせん,,
+137,支店,shiten,Noun,branch office; branch store​
+,,してん,,
+138,使用,shiyou,"Noun, Verb, Suru verb",use; application; employment; utilization.
+,,しよう,,
+139,食品,shokuhin,Noun,food; food products
+,,しょくひん,,
+140,書物,shomotsu,Noun,book; volume
+,,しょもつ,,
+141,書類,shorui,Noun,document; official papers
+,,しょるい,,
+142,書斎,shosai,Noun,study; library; den; home office; reading room
+,,しょさい,,
+143,商売,shoubai,Noun,trade; business; commerce; transaction; occupation
+,,しょうばい,,
+144,奨学金,shougakukin,Noun,scholarship; stipend; student loan
+,,しょうがくきん,,
+145,正午,shougo,"Noun, Adverbial Noun",midday
+,,しょうご,,
+146,商品,shouhin,Noun,commodity; article of commerce; goods; stock; merchandise
+,,しょうひん,,
+147,少女,shoujo,Noun,little girl; maiden; young lady
+,,しょうじょ,,
+148,証明,shoumei,"Noun, Verb, Suru verb",proof; verification; certification
+,,しょうめい,,
+149,少年,shounen,Noun,boy; juvenile; young boy; youth; lad
+,,しょうねん,,
+150,少々,shoushou,"Noun, Adverbial Noun",just a minute; small quantity
+,,しょうしょう,,
+151,招待,shoutai,"Noun, Verb, Suru verb",invitation
+,,しょうたい,,
+152,週,shuu,"Noun, Suffix",week
+,,しゅう,,
+153,集中,shuuchuu,"Noun, Verb, Suru verb",concentration; focusing; centralization; integration
+,,しゅうちゅう,,
+154,集団,shuudan,Noun,group; mass
+,,しゅうだん,,
+155,収穫,shuukaku,"Noun, Verb, Suru verb",harvest; crop; fruits (of one's labors)
+,,しゅうかく,,
+156,週間,shuukan,Noun,week
+,,しゅうかん,,
+157,週刊,shuukan,Noun,weekly publication
+,,しゅうかん,,
+158,収入,shuunyuu,Noun,income; receipts; revenue; salary
+,,しゅうにゅう,,
+159,速度,sokudo,Noun,speed; velocity; pace; rate
+,,そくど,,
+160,少しも,sukoshimo,Adverb,anything of; not one bit (with negative sentence)
+,,すこしも,,
+161,大半,taihan,"Noun, Adverbial Noun",majority; more than half; most; largely; mainly
+,,たいはん,,
+162,大会,taikai,Noun,convention; rally; conference; tournament;
+,,たいかい,,
+163,大した,taishita,Pre-noun adjectival,considerable; great; important; significant; a big deal
+,,たいした,,
+164,単なる,tannaru,Pre-noun adjectival,mere; simple; sheer
+,,たんなる,,
+165,多少,tashou,"Noun, Adverb",more or less; somewhat; a little; a few; some
+,,たしょう,,
+166,手品,tejina,Noun,magic trick; illusion
+,,てじな,,
+167,哲学,tetsugaku,Noun,philosophy
+,,てつがく,,
+168,徹夜,tetsuya,"Noun, Verb, Suru verb",staying up all night
+,,てつや,,
+169,土地,tochi,Noun,plot of land; lot; soil
+,,とち,,
+170,都会,tokai,Noun,(big) city
+,,とかい,,
+171,取れる,toreru,"Verb, Ichidan verb, Intransitive verb, Transitive verb",to come off; to be removed; to be obtainable
+,,とれる,,
+172,取り上げる,toriageru,"Verb, Ichidan verb, Transitive verb",to pick up
+,,とりあげる,,
+173,図書,tosho,Noun,books
+,,としょ,,
+174,通学,tsuugaku,"Noun, Verb, Suru verb",commuting to school; school commute
+,,つうがく,,
+175,受け取る,uketoru,"Verb, Godan verb, Transitive verb",to receive; to understand
+,,うけとる,,
+176,上手い,umai,"Adjective, い-adjective",skillful; delicious
+,,うまい,,
+177,運転,unten,"Noun, Verb, Suru verb",operation; driving
+,,うんてん,,
+178,売れる,ureru,"Verb, Ichidan verb, Intransitive verb",to sell (well)
+,,うれる,,
+179,分ける,wakeru,"Verb, Ichidan verb, Transitive verb",to divide; to split; to part; to separate
+,,わける,,
+180,悪口,waruguchi,"Noun, Verb, Suru verb",slander; bad-mouthing; abuse; insult; speaking ill (of)
+,,わるぐち,,
+181,夜明け,yoake,Noun,dawn; daybreak
+,,よあけ,,
+182,余分,yobun,Noun,extra; excess; surplus
+,,よぶん,,
+183,読み,yomi,Noun,"reading (of a kanji, situation, etc)"
+,,よみ,,
+184,夜中,yonaka,"Noun, Adverbial Noun",middle of the night; dead of night
+,,よなか,,
+185,宜しい,yoroshii,"Adjective, い-adjective",(respectful) OK; all right
+,,よろしい,,
+186,唯一,yuiitsu,"Noun, Adverbial Noun",only; sole; unique
+,,ゆいいつ,,
+187,輸入,yunyuu,"Noun, Verb, Suru verb",import; importation; introduction
+,,ゆにゅう,,
+188,輸出,yushutsu,"Noun, Verb, Suru verb",export; exportation​
+,,ゆしゅつ,,
+189,夕べ,yuube,"Noun, Adverbial Noun",evening / last night; yesterday evening
+,,ゆうべ,,
+190,有利,yuuri,"Noun, な-adjective",advantageous; favorable; profitable
+,,ゆうり,,
+191,全国,zenkoku,Noun,the whole country
+,,ぜんこく,,
+192,随分,zuibun,"Adjective, な-adjective, Adverb",very; extremely; surprisingly; considerably; awfully
+,,ずいぶん,,

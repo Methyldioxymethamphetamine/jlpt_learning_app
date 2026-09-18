@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/build
+/app/build
+/.idea
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+/jdk-17.0.10+7
+/gradle-8.5
