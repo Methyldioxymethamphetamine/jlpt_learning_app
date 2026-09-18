@@ -1,2141 +1,664 @@
 ﻿Kanji,Kana,Romaji,Type,Meaning
-作法,さほう,sahou,N,"manners, etiquette, propriety"
-様々,さまざま,samazama,N,"varied, various"
-冷ます,さます,samasu,V-godan,"to cool, to let cool"
-覚ます,さます,samasu,V-godan,to awaken
-冷める,さめる,sameru,V-ichi,"to become cool, to wear off"
-覚める,さめる,sameru,V-ichi,"to wake, to wake up"
-左右,さゆう,sayuu,N,"left and right, influence"
-皿,さら,sara,N,"plate, dish"
-更に,さらに,sarani,Conj,"furthermore, moreover"
-去る,さる,saru,V-godan,"to leave, to go away"
-猿,さる,saru,N,monkey
-騒ぎ,さわぎ,sawagi,N,"uproar, disturbance"
-参加,さんか,sanka,N,participation
-参考,さんこう,sankou,N,"reference, consultation"
-賛成,さんせい,sansei,N,"approval, agreement"
-酸性,さんせい,sansei,N,acidity
-酸素,さんそ,sanso,N,oxygen
-氏,し,shi,N,"family name, lineage"
-詩,し,shi,N,"poem, poetry"
-幸せ,しあわせ,shiawase,N,"happiness, blessing"
-ジーンズ,ジーンズ,jiinzu,N(kat),jeans
-ジェット機,ジェットき,jettoki,N,jet plane
-四角,しかく,shikaku,N,square
-直に,じかに,jikani,Adv,"immediately, readily, directly"
-しかも,しかも,shikamo,N,"moreover, furthermore, besides"
-四季,しき,shiki,N,four seasons
-直,じき,jiki,Adv,"immediately, soon, shortly"
-時期,じき,jiki,N,"time, season, period"
-支給,しきゅう,shikyuu,N,"payment, allowance"
-至急,しきゅう,shikyuu,N,"urgent, pressing"
-しきりに,しきりに,shikirini,N,"frequently, repeatedly, eagerly"
-刺激,しげき,shigeki,N,"stimulus, impetus, incentive"
-資源,しげん,shigen,N,resources
-事件,じけん,jiken,N,"event, affair, incident"
-時刻,じこく,jikoku,N,"time, hour"
-自殺,じさつ,jisatsu,N,suicide
-事実,じじつ,jijitsu,N,"fact, truth, reality"
-支出,ししゅつ,shishutsu,N,"expenditure, expenses"
-事情,じじょう,jijou,N,"circumstances, situation, reasons"
-詩人,しじん,shijin,N,poet
-自身,じしん,jishin,N,oneself
-沈む,しずむ,shizumu,V-godan,"to sink, to feel depressed"
-自然,しぜん,shizen,N,"nature, spontaneous"
-思想,しそう,shisou,N,"thought, idea"
-舌,した,shita,N,tongue
-次第,しだい,shidai,N,"order, circumstances, immediate"
-従う,したがう,shitagau,V-godan,"to abide, to obey"
-したがって,したがって,shitagatte,Conj,"therefore, consequently"
-親しい,したしい,shitashii,N,"intimate, close (e.g., friend)"
-質,しつ,shitsu,N,"quality, nature"
-失業,しつぎょう,shitsugyou,N,unemployment
-湿気,しっけ,shikke,N,"moisture, humidity, dampness"
-実験,じっけん,jikken,N,"lab work, experiment"
-実現,じつげん,jitsugen,N,"implementation, materialization"
-実行,じっこう,jikkou,N,"practice, execution (e.g."
-実際,じっさい,jissai,N,"in fact, in actuality"
-実施,じっし,jisshi,N,"enforcement, carry out, operation"
-湿度,しつど,shitsudo,N,humidity
-じっと,じっと,jitto,N,"patiently, quietly"
-実に,じつに,jitsuni,N,"indeed, truly, surely"
-実は,じつは,jitsuha,N,"actually, in fact"
-失望,しつぼう,shitsubou,N,"disappointment, despair"
-実力,じつりょく,jitsuryoku,N,"ability, force"
-支店,してん,shiten,N,branch store
-指導,しどう,shidou,N,"leadership, guidance, coaching"
-自動,じどう,jidou,N,"automatic, self-motion"
-児童,じどう,jidou,N,"children, juvenile"
-品,しな,shina,N,"thing, article, goods"
-支配,しはい,shihai,N,"rule, control, direction"
-芝居,しばい,shibai,N,"play, drama"
-しばしば,しばしば,shibashiba,Adv,"often, again and again, frequently"
-芝生,しばふ,shibafu,N,lawn
-支払,しはらい,shiharai,N,payment
-支払う,しはらう,shiharau,V-godan,to pay
-死亡,しぼう,shibou,N,death
-資本,しほん,shihon,N,"funds, capital"
-姉妹,しまい,shimai,N,sisters
-しまった (かん),しまった (かん),shimatta (kan),N,Damn it!
-自慢,じまん,jiman,N,"pride, boast"
-地味,じみ,jimi,な-A,"quiet, plain, conservative"
-示す,しめす,shimesu,V-godan,"to show, to indicate"
-占める,しめる,shimeru,V-ichi,"to take up, to account for"
-湿る,しめる,shimeru,V-ichi,"to be wet, to be damp"
-下,しも,shimo,N,"under, below, beneath"
-霜,しも,shimo,N,frost
-借金,しゃっきん,shakkin,N,"debt, loan, liabilities"
-しゃべる,しゃべる,shaberu,V-ichi,"to talk, to chat, to chatter )"
-週,しゅう,shuu,N,week
-州,しゅう,shuu,N,"state, province"
-銃,じゅう,juu,N,gun
-周囲,しゅうい,shuui,N,"surroundings, circumference"
-収穫,しゅうかく,shuukaku,N,"harvest, crop, ingathering"
-宗教,しゅうきょう,shuukyou,N,religion
-重視,じゅうし,juushi,N,"importance, stress"
-就職,しゅうしょく,shuushoku,N,finding employment
-ジュース,ジュース,juusu,N(kat),"juice, soft drink, deuce"
-修正,しゅうせい,shuusei,N,"amendment, correction"
-重体,じゅうたい,juutai,な-A,"seriously ill, critical state"
-渋滞,じゅうたい,juutai,N,"congestion (e.g., traffic), delay"
-重大,じゅうだい,juudai,な-A,"serious, important"
-住宅,じゅうたく,juutaku,N,"resident, housing"
-集団,しゅうだん,shuudan,N,"group, mass"
-集中,しゅうちゅう,shuuchuu,N,"concentration, focusing the mind"
-収入,しゅうにゅう,shuunyuu,N,"income, revenue"
-住民,じゅうみん,juumin,N,"inhabitants, residents"
-重要,じゅうよう,juuyou,な-A,"important, essential"
-修理,しゅうり,shuuri,N,"repairing, mending"
-主義,しゅぎ,shugi,N,"doctrine, cause, principle"
-宿泊,しゅくはく,shukuhaku,N,lodging
-手術,しゅじゅつ,shujutsu,N,surgical operation
-首相,しゅしょう,shushou,N,Prime Minister
-手段,しゅだん,shudan,N,"means, way, measure"
-主張,しゅちょう,shuchou,N,"claim, insistence, assertion"
-出場,しゅつじょう,shutsujou,N,participation
-出身,しゅっしん,shusshin,N,come from
-出版,しゅっぱん,shuppan,N,publication
-首都,しゅと,shuto,N,capital city
-主婦,しゅふ,shufu,N,housewife
-主要,しゅよう,shuyou,N,"chief, main"
-需要,じゅよう,juyou,N,demand
-種類,しゅるい,shurui,N,"variety, kind"
-順,じゅん,jun,N,"order, turn"
-瞬間,しゅんかん,shunkan,N,"moment, second"
-順調,じゅんちょう,junchou,N,doing well
-順番,じゅんばん,junban,N,"turn, order of things"
-使用,しよう,shiyou,N,"use ), application, employment"
-小,しょう,shou,N,small
-章,しょう,shou,N,"chapter, section, medal"
-賞,しょう,shou,N,"prize, award"
-上,じょう,jou,N,"first volume, superior quality"
-障害,しょうがい,shougai,N,"obstacle, impediment"
-奨学金,しょうがくきん,shougakukin,N,scholarship
-乗客,じょうきゃく,joukyaku,N,passenger
-上京,じょうきょう,joukyou,N,proceeding to the capital
-状況,じょうきょう,joukyou,N,"state of affairs, situation"
-条件,じょうけん,jouken,N,"conditions, terms"
-正午,しょうご,shougo,N,"noon, mid-day"
-正直,しょうじき,shoujiki,な-A,"honesty, integrity, frankness"
-常識,じょうしき,joushiki,N,common sense
-少女,しょうじょ,shoujo,N,young girl
-少々,しょうしょう,shoushou,Adv,"a little, short  )"
-症状,しょうじょう,shoujou,N,"symptoms, condition"
-生じる,しょうじる,shoujiru,V-ichi,"to occur, to arise"
-状態,じょうたい,joutai,N,"condition, situation"
-上達,じょうたつ,joutatsu,N,"improvement, advance"
-冗談,じょうだん,joudan,N,a joke
-上等,じょうとう,joutou,N,"first class, very good"
-衝突,しょうとつ,shoutotsu,N,"collision, conflict"
-商人,しょうにん,shounin,N,"trader, shopkeeper, merchant"
-承認,しょうにん,shounin,N,"recognition, approval"
-少年,しょうねん,shounen,N,"boys, juveniles"
-商売,しょうばい,shoubai,N,"trade, business, commerce"
-消費,しょうひ,shouhi,N,"consumption, expenditure"
-商品,しょうひん,shouhin,N,"commodity, merchandise"
-賞品,しょうひん,shouhin,N,"prize, trophy"
-消防,しょうぼう,shoubou,N,"fire fighting, fire department"
-情報,じょうほう,jouhou,N,"information, intelligence"
-証明,しょうめい,shoumei,N,"proof, verification"
-省略,しょうりゃく,shouryaku,N,"omission, abbreviation, abridgment"
-女王,じょおう,joou,N,queen
-職,しょく,shoku,N,employment
-職業,しょくぎょう,shokugyou,N,"occupation, business"
-食卓,しょくたく,shokutaku,N,dining table
-食品,しょくひん,shokuhin,N,foodstuff
-植物,しょくぶつ,shokubutsu,N,"plant, vegetation"
-食物,しょくもつ,shokumotsu,N,"food, foodstuff"
-食欲,しょくよく,shokuyoku,N,appetite
-食料,しょくりょう,shokuryou,N,food
-食糧,しょくりょう,shokuryou,N,"provisions, rations"
-書斎,しょさい,shosai,N,"study, den"
-女子,じょし,joshi,N,"woman, girl"
-助手,じょしゅ,joshu,N,"helper, assistant"
-徐々に,じょじょに,jojoni,Adv,"slowly, little by little"
-署名,しょめい,shomei,N,signature
-書物,しょもつ,shomotsu,N,books
-女優,じょゆう,joyuu,N,actress
-処理,しょり,shori,N,"processing, treatment, disposition"
-書類,しょるい,shorui,N,"documents, official papers"
-知らせ,しらせ,shirase,N,notice
-尻,しり,shiri,N,"buttocks, bottom"
-知合い,しりあい,shiriai,N,acquaintance
-印,しるし,shirushi,N,"mark, symbol, evidence"
-城,しろ,shiro,N,castle
-進学,しんがく,shingaku,N,going on to university
-神経,しんけい,shinkei,N,"nerve, sensitivity"
-真剣,しんけん,shinken,な-A,"seriousness, earnestness"
-信仰,しんこう,shinkou,N,"faith, belief"
-信号,しんごう,shingou,N,"traffic lights, signal, semaphore"
-人工,じんこう,jinkou,N,"artificial, man made, human work"
-深刻,しんこく,shinkoku,な-A,serious
-診察,しんさつ,shinsatsu,N,medical examination
-人種,じんしゅ,jinshu,N,race
-信じる,しんじる,shinjiru,V-ichi,to believe
-人生,じんせい,jinsei,N,"life (e.g., conception to death)"
-親戚,しんせき,shinseki,N,relative
-新鮮,しんせん,shinsen,N,fresh
-心臓,しんぞう,shinzou,N,heart
-身体,しんたい,shintai,N,the body
-身長,しんちょう,shinchou,N,"height, stature"
-慎重,しんちょう,shinchou,な-A,"careful, prudent, cautious"
-審判,しんぱん,shinpan,N,"umpire, referee, judgment"
-人物,じんぶつ,jinbutsu,N,"character, personality"
-進歩,しんぽ,shinpo,N,"improvement, progress, development"
-親友,しんゆう,shinyuu,N,"close friend, buddy"
-信用,しんよう,shinyou,N,"confidence, dependence"
-信頼,しんらい,shinrai,N,"reliance, trust, confidence"
-心理,しんり,shinri,N,mentality
-人類,じんるい,jinrui,N,"mankind, humanity"
-巣,す,su,N,"nest, breeding place"
-酢,す,su,N,vinegar
-図,ず,zu,N,"figure, drawing, illustration"
-水準,すいじゅん,suijun,N,"level, standard"
-推薦,すいせん,suisen,N,recommendation
-スイッチ,スイッチ,suitchi,N(kat),switch
-睡眠,すいみん,suimin,N,sleep
-数,すう,suu,N,"number, figure"
-数字,すうじ,suuji,N,"numeral, figure"
-スープ,スープ,suupu,N(kat),soup
-末,すえ,sue,N,"the end of, powder"
-姿,すがた,sugata,N,"figure, shape, appearance"
-スキー,スキー,sukii,N(kat),ski
-救う,すくう,sukuu,V-godan,"to rescue from, to help out of"
-すくなくとも,すくなくとも,sukunakutomo,N,at least
-優れる,すぐれる,sugureru,V-ichi,"to surpass, to outstrip, to excel"
-スケート,スケート,sukeeto,N(kat),"skate, skating"
-スケジュール,スケジュール,sukejuuru,N(kat),schedule
-少しも,すこしも,sukoshimo,N,"anything of, not one bit"
-過ごす,すごす,sugosu,V-godan,"to pass, to spend"
-筋,すじ,suji,N,"muscle, string, line"
-進める,すすめる,susumeru,V-ichi,"to advance, to promote, to hasten"
-勧める,すすめる,susumeru,V-ichi,"to urge  to do, to recommend"
-スター,スター,sutaa,N(kat),star
-スタイル,スタイル,sutairu,N(kat),style
-スタンド,スタンド,sutando,N(kat),stand
-頭痛,ずつう,zutsuu,N,headache
-ずっと,ずっと,zutto,N,"for a long time, all the time"
-すっぱい,すっぱい,suppai,い-A,"sour, acid"
-すてき,すてき,suteki,N,"lovely, great"
-既に,すでに,sudeni,Adv,already
-すなわち,すなわち,sunawachi,N,"that is, namely, e.g."
-スピーチ,スピーチ,supiichi,N(kat),speech
-全て,すべて,subete,N,"all, the whole, entirely"
-済ませる,すませる,sumaseru,V-ichi,to be finished
-角,すみ,sumi,N,corner
-墨,すみ,sumi,N,ink
-すみません (かん),すみません (かん),sumimasen (kan),N,"sorry, excuse me"
-澄む,すむ,sumu,V-godan,"to clear (e.g., weather)"
-清む,すむ,sumu,V-godan,"to clear (e.g., weather)"
-刷る,する,suru,V-suru,to print
-為る,する,suru,V-suru,"to do, to attempt"
-鋭い,するどい,surudoi,い-A,"pointed, sharp"
-すれ違う,すれちがう,surechigau,V-godan,to pass by one another
-ずれる,ずれる,zureru,N,"move, off the point"
-正,せい,sei,N,"true, regular"
-生,せい,sei,N,birth
-性,せい,sei,N,"sex, gender"
-姓,せい,sei,N,"surname, family name"
-所為,せい,sei,N,"cause, reason, fault"
-税,ぜい,zei,N,tax
-性格,せいかく,seikaku,N,"character, personality"
-正確,せいかく,seikaku,N,"accurate, punctuality, exact"
-世紀,せいき,seiki,N,century
-請求,せいきゅう,seikyuu,N,"claim, demand, request"
-税金,ぜいきん,zeikin,N,"tax, duty"
-清潔,せいけつ,seiketsu,N,clean
-制限,せいげん,seigen,N,"restriction, restraint, limitation"
-成功,せいこう,seikou,N,"success, hit"
-正式,せいしき,seishiki,N,"official, formal"
-性質,せいしつ,seishitsu,N,"nature, property, disposition"
-精神,せいしん,seishin,N,"mind, soul, spirit"
-成人,せいじん,seijin,N,adult
-精々,せいぜい,seizei,N,"at the most, at best"
-成績,せいせき,seiseki,N,"grade (i.e., on a test)"
-製造,せいぞう,seizou,N,"manufacture, production"
-贅沢,ぜいたく,zeitaku,N,"luxury, extravagance"
-成長,せいちょう,seichou,N,growth
-生長,せいちょう,seichou,N,growth
-制度,せいど,seido,N,"system, institution"
-青年,せいねん,seinen,N,"youth, young man"
-生年月日,せいねんがっぴ,seinengappi,N,birth date
-製品,せいひん,seihin,N,"manufactured goods, finished goods"
-政府,せいふ,seifu,N,"government, administration"
-生物,せいぶつ,seibutsu,N,"living thing, organism"
-生命,せいめい,seimei,N,life
-整理,せいり,seiri,N,"sorting, arrangement"
-咳,せき,seki,N,cough
-石炭,せきたん,sekitan,N,coal
-責任,せきにん,sekinin,N,"duty, responsibility"
-石油,せきゆ,sekiyu,N,"oil, petroleum, kerosene"
-世間,せけん,seken,N,"world, society"
-説,せつ,setsu,N,theory
-積極的,せっきょくてき,sekkyokuteki,N,"positive, active, proactive"
-設計,せっけい,sekkei,N,"plan, design"
-絶対,ぜったい,zettai,N,"definitely, without fail"
-セット,セット,setto,N(kat),set
-愛,あい,ai,N,love
-相変わらず,あいかわらず,aikawarazu,N,"as ever, as usual"
-愛情,あいじょう,aijou,N,"love, affection"
-合図,あいず,aizu,N,"sign, signal"
-アイスクリーム,アイスクリーム,aisukuriimu,N(kat),ice cream
-愛する,あいする,aisuru,V-suru,to love
-相手,あいて,aite,N,"partner, addressee"
-あいにく,あいにく,ainiku,N,unfortunately
-遭う,あう,au,Ctr,"to meet, to encounter"
-アウト,アウト,auto,N(kat),out
-明かり,あかり,akari,N,"lamplight, light"
-空き,あき,aki,N,"vacancy, opening, space"
-明らか,あきらか,akiraka,N,"obvious, clear"
-諦める,あきらめる,akirameru,V-ichi,"to give up, to abandon"
-飽きる,あきる,akiru,V-ichi,to get tired of
-握手,あくしゅ,akushu,N,handshake
-悪魔,あくま,akuma,N,"devil, demon, evil spirit"
-明ける,あける,akeru,V-ichi,"to dawn, to become daylight"
-揚げる,あげる,ageru,V-ichi,"to lift, to fry"
-挙げる,あげる,ageru,V-ichi,"to raise, to list, to cite"
-預かる,あずかる,azukaru,V-godan,to keep  for
-預ける,あずける,azukeru,V-ichi,"to give into custody, to deposit"
-汗,あせ,ase,N,"sweat, perspiration"
-与える,あたえる,ataeru,V-ichi,to give
-温かい,あたたかい,atatakai,い-A,warm
-暖まる,あたたまる,atatamaru,V-godan,to warm up
-温まる,あたたまる,atatamaru,V-godan,"to warm oneself, to get warm"
-暖める,あたためる,atatameru,V-ichi,"to warm, to heat"
-温める,あたためる,atatameru,V-ichi,"to warm, to heat"
-辺り,あたり,atari,N,"vicinity, nearby"
-当たり前,あたりまえ,atarimae,N,"usual, common, obvious"
-当たる,あたる,ataru,V-godan,"to be hit, to be successful"
-あちこち,あちこち,achikochi,N,here and there
-扱う,あつかう,atsukau,V-godan,"to treat, to handle, to deal with"
-集まり,あつまり,atsumari,N,"gathering, meeting, collection"
-当てる,あてる,ateru,V-ichi,"to hit, to apply to"
-跡,あと,ato,N,"trace, remains, scar"
-穴,あな,ana,N,hole
-油,あぶら,abura,N,oil
-脂,あぶら,abura,N,fat
-誤り,あやまり,ayamari,N,error
-粗,あら,ara,N,"defect, flaw, fault"
-嵐,あらし,arashi,N,storm
-争う,あらそう,arasou,V-godan,"to dispute, to argue, to fight"
-新た,あらた,arata,N,"new, fresh"
-あらゆる,あらゆる,arayuru,N,"all, every"
-表す,あらわす,arawasu,V-godan,"to express, to show"
-現す,あらわす,arawasu,V-godan,"to show, to appear, to reveal"
-著す,あらわす,arawasu,V-godan,"to write, to publish"
-現れ,あらわれ,araware,Expr,"expression, indication, sign"
-現れる,あらわれる,arawareru,V-ichi,"to appear, to become visible"
-ありがとう,ありがとう,arigatou,Expr,Thank you
-在る; 有る,ある,aru,V-godan,"to live, to be, to exist"
-或,ある,aru,N,"a certain..., some..."
-あるいは,あるいは,aruiha,N,"or, perhaps"
-アルバム,アルバム,arubamu,N(kat),album
-泡,あわ,awa,N,"bubble, foam"
-合わせる,あわせる,awaseru,V-ichi,to combine
-慌てる,あわてる,awateru,V-ichi,to become confused、to panic
-哀れ,あわれ,aware,N,"helpless, pity, pathetic"
-案,あん,an,N,"plan, scheme, proposal"
-案外,あんがい,angai,N,unexpectedly
-暗記,あんき,anki,N,"memorization, learning by heart"
-安定,あんてい,antei,N,"stability, equilibrium"
-あんなに,あんなに,annani,V,"to that extent, to that degree"
-あんまり,あんまり,anmari,N,"not very, not much"
-胃,い,i,N,stomach
-委員,いいん,iin,N,committee member
-意外,いがい,igai,N,"unexpected, surprising"
-行き,いき,iki,N,going
-行き,ゆき,yuki,N,going
-息,いき,iki,N,breath
-勢い,いきおい,ikioi,N,"force, vigor, momentum"
-生き物,いきもの,ikimono,N,"living thing, creature"
-いけない,いけない,ikenai,い-A,"must not do, bad, wrong"
-医師,いし,ishi,N,"doctor, physician"
-意思,いし,ishi,N,"intention, purpose"
-意志,いし,ishi,N,"will, volition"
-維持,いじ,iji,N,"maintenance, preservation"
-意識,いしき,ishiki,N,"consciousness, senses"
-異常,いじょう,ijou,な-A,"strangeness, abnormality, disorder"
-意地悪,いじわる,ijiwaru,N,"malicious, mean, unkind"
-泉,いずみ,izumi,N,"spring, fountain"
-いずれ,いずれ,izure,Pron,"where, which, who"
-以前,いぜん,izen,N,"in the past, before"
-板,いた,ita,N,"board, plank"
-偉大,いだい,idai,い-A,greatness
-抱く,いだく,idaku,Expr,"to hold, to embrace, to harbor"
-いたずら,いたずら,itazura,N,"trick, practical joke"
-いただきます,いただきます,itadakimasu,Expr,expression of gratitude before meals
-痛み,いたみ,itami,N,"pain, ache, sore"
-至る,いたる,itaru,V-godan,"to come, to arrive"
-市,いち,ichi,N,"market, fair"
-位置,いち,ichi,N,"place, position"
-一時,いちじ,ichiji,N,"for a time, temporarily"
-一度に,いちどに,ichidoni,N,all at once
-市場,いちば,ichiba,N,"market, bazaar"
-いつか,いつか,itsuka,N,"sometime, one day"
-一家,いっか,ikka,N,"family, clan"
-一種,いっしゅ,isshu,N,"a species, a kind, a variety"
-一瞬,いっしゅん,isshun,N,"a moment, an instant"
-一生,いっしょう,isshou,N,throughout  life
-一層,いっそう,issou,Adv,"much more, still more"
-一体,いったい,ittai,N,"one object, body, what on earth?"
-一致,いっち,itchi,N,"agreement, conformity"
-いつでも,いつでも,itsudemo,N,"any time, always"
-いつのまにか,いつのまにか,itsunomanika,N,before one knows
-一般,いっぱん,ippan,N,"general, average"
-一方,いっぽう,ippou,N,"on the other hand, meanwhile"
-いつまでも,いつまでも,itsumademo,N,"forever, for good, eternally"
-移動,いどう,idou,N,"migration, movement"
-従兄弟,いとこ,itoko,N,cousin
-従姉妹,いとこ,itoko,N,cousin
-稲,いね,ine,N,rice-plant
-居眠り,いねむり,inemuri,N,"dozing, nodding off"
-命,いのち,inochi,N,life
-違反,いはん,ihan,N,"violation, infringement"
-衣服,いふく,ifuku,N,clothes
-居間,いま,ima,N,living room
-今に,いまに,imani,Adv,"before long, soon"
-今にも,いまにも,imanimo,N,"at any time, soon"
-イメージ,イメージ,imeeji,N(kat),one's image
-否,いや,iya,Expr,"no, the noes"
-以来,いらい,irai,N,"since, henceforth"
-依頼,いらい,irai,N,"request, dependence"
-いらいら,いらいら,iraira,N,"getting nervous, irritation"
-いらっしゃい,いらっしゃい,irasshai,Expr,welcome
-医療,いりょう,iryou,N,"medical care, medical treatment"
-岩,いわ,iwa,N,rock
-祝い,いわい,iwai,N,"celebration, festival"
-祝う,いわう,iwau,V-godan,"to congratulate, to celebrate"
-言わば,いわば,iwaba,N,so to speak
-いわゆる,いわゆる,iwayuru,N,"the so-called, so-to-speak"
-インク,インク,inku,N(kat),ink
-印刷,いんさつ,insatsu,N,printing
-印象,いんしょう,inshou,N,impression
-引退,いんたい,intai,N,retirement
-インタビュー,インタビュー,intabyuu,N(kat),interview
-引用,いんよう,inyou,N,"quotation, citation"
-ウイスキー,ウイスキー,uisukii,N(kat),whiskey
-上,うわ,uwa,N,"upper, outer, surface"
-魚,うお,uo,N,fish
-うがい,うがい,ugai,N,gargling
-受け取る,うけとる,uketoru,V-godan,"to receive, to get, to accept"
-動かす,うごかす,ugokasu,V-godan,"to move, to shift"
-兎,うさぎ,usagi,N,"rabbit, hare"
-牛,うし,ushi,N,"cattle, cow"
-失う,うしなう,ushinau,V-godan,"to lose, to part with"
-疑う,うたがう,utagau,V-godan,"to doubt, to distrust"
-宇宙,うちゅう,uchuu,N,"universe, cosmos, space"
-討つ,うつ,utsu,V-godan,"to attack, to avenge"
-撃つ,うつ,utsu,V-godan,"to attack, to shoot"
-うっかり,うっかり,ukkari,Adv,"carelessly, inadvertently"
-映す,うつす,utsusu,V-godan,"to project, to reflect, to cast"
-訴える,うったえる,uttaeru,V-ichi,"to complain, to appeal, to sue"
-写る,うつる,utsuru,V-godan,to be photographed
-映る,うつる,utsuru,V-godan,"to be reflected, to come out"
-うなる,うなる,unaru,V-godan,"to groan, to moan"
-奪う,うばう,ubau,V-godan,"to rob, to deprive"
-馬,うま,uma,N,"horse, promoted bishop"
-生まれ,うまれ,umare,N,"birth, birth-place"
-有無,うむ,umu,Expr,"yes or no, presence or absence"
-梅,うめ,ume,N,"plum, lowest"
-埋める,うめる,umeru,V-ichi,"to bury, to fill up"
-裏切る,うらぎる,uragiru,V-ichi,"to betray, to turn traitor"
-羨ましい,うらやましい,urayamashii,い-A,"envious, enviable"
-売れる,うれる,ureru,V-ichi,to be sold
-噂,うわさ,uwasa,N,"rumor, gossip"
-運,うん,un,N,"fortune, luck"
-運転,うんてん,unten,N,"operation, driving"
-柄,え,e,N,"handle (of a sword, dagger, etc.)"
-永遠,えいえん,eien,N,"eternity, perpetuity, immortality"
-永久,えいきゅう,eikyuu,N,"eternity, perpetuity, immortality"
-影響,えいきょう,eikyou,N,"influence, effect"
-営業,えいぎょう,eigyou,N,"business, trade, management"
-衛星,えいせい,eisei,N,satellite
-栄養,えいよう,eiyou,N,"nutrition, nourishment"
-笑顔,えがお,egao,N,smile
-描く,えがく,egaku,V-godan,"to draw, to depict, to describe"
-餌,えさ,esa,N,"feed, bait"
-エネルギー,エネルギー,enerugii,N(kat),energy
-得る,える,eru,V-ichi,"to get, to gain, to win, to learn"
-得る,うる,uru,V-godan,"to get, to gain, to win"
-円,えん,en,N,"circle, yen"
-延期,えんき,enki,N,"postponement, adjournment"
-演技,えんぎ,engi,N,"acting, performance"
-援助,えんじょ,enjo,N,"assistance, aid, support"
-エンジン,エンジン,enjin,N(kat),engine
-演説,えんぜつ,enzetsu,N,"speech, address"
-演奏,えんそう,ensou,N,musical performance
-老い,おい,oi,い-A,"old age, the aged"
-追い付く,おいつく,oitsuku,V-godan,"to overtake, to catch up"
-王,おう,ou,N,king
-追う,おう,ou,V-godan,"to chase, to run after"
-応援,おうえん,ouen,N,"aid, assistance, help"
-王様,おうさま,ousama,N,king
-王子,おうじ,ouji,N,prince
-応じる,おうじる,oujiru,V-ichi,"to adapt, to respond"
-横断,おうだん,oudan,N,crossing
-終える,おえる,oeru,V-ichi,to finish
-大いに,おおいに,ooini,Adv,"much, considerably ), greatly"
-覆う,おおう,oou,V-godan,"to cover, to hide, to conceal"
-大家,おおや,ooya,N,landlord
-丘,おか,oka,N,"hill, height"
-沖,おき,oki,N,open sea
-奥,おく,oku,N,"interior, inner part"
-贈る,おくる,okuru,V-godan,"to present, to give to"
-起こる,おこる,okoru,V-godan,"to occur, to happen"
-押える,おさえる,osaeru,V-ichi,"to stop, to restrain"
-幼い,おさない,osanai,い-A,"very young, childish"
-収める,おさめる,osameru,V-ichi,"to store to pay, to supply"
-納める,おさめる,osameru,V-ichi,"to store to pay, to supply"
-治める,おさめる,osameru,V-ichi,"to govern, to manage, to subdue"
-お辞儀,おじぎ,ojigi,N,bow
-お洒落,おしゃれ,oshare,N,"smartly dressed, fashion-conscious"
-お喋り,おしゃべり,oshaberi,N,"chattering, talk"
-汚染,おせん,osen,N,"pollution, contamination"
-恐らく,おそらく,osoraku,Adv,perhaps
-恐れる,おそれる,osoreru,V-ichi,"to fear, to be afraid of"
-恐ろしい,おそろしい,osoroshii,い-A,"terrible, dreadful"
-教わる,おそわる,osowaru,V-godan,to be taught
-お互い,おたがい,otagai,N,"mutual, reciprocal, each other"
-穏やか,おだやか,odayaka,N,"calm, gentle, quiet"
-男の人,おとこのひと,otokonohito,N,man
-大人しい,おとなしい,otonashii,N,"obedient, docile, quiet"
-劣る,おとる,otoru,V-godan,"to fall behind, to be inferior to"
-鬼,おに,oni,N,"ogre, demon, 'it' (e.g."
-帯,おび,obi,N,"band, sash"
-お昼,おひる,ohiru,N,"lunch, noon"
-オフィス,オフィス,ofisu,N(kat),office
-溺れる,おぼれる,oboreru,V-ichi,"to be drowned, to indulge in"
-お前,おまえ,omae,N,"you, presence"
-おめでとう,おめでとう,omedetou,Expr,Congratulations!
-お目に掛かる,おめにかかる,omenikakaru,N,"meet ~, see ~"
-思い付く,おもいつく,omoitsuku,V-godan,"to think of, to hit upon"
-思い出,おもいで,omoide,N,"memories, recollections"
-主に,おもに,omoni,N,"mainly, primarily"
-思わず,おもわず,omowazu,N,"unintentional, spontaneous"
-泳ぎ,およぎ,oyogi,N,swimming
-およそ,およそ,oyoso,Adv,"about, roughly, approximately"
-及ぼす,およぼす,oyobosu,V-godan,"to exert, to cause, to exercise"
-下す,おろす,orosu,V-godan,"to lower, to let go down"
-降ろす,おろす,orosu,V-godan,"to take down, to launch, to drop"
-卸す,おろす,orosu,V-godan,"to sell wholesale, grated"
-音,おん,on,N,"sound, note"
-恩,おん,on,N,"favor, obligation"
-温暖,おんだん,ondan,N,warmth
-温度,おんど,ondo,N,temperature
-可,か,ka,N,passable
-蚊,か,ka,N,mosquito
-課,か,ka,N,"department, division"
-カー,カー,kaa,N(kat),car
-カード,カード,kaado,N(kat),"card, curd"
-貝,かい,kai,N,"shell, shellfish"
-害,がい,gai,N,"harm, damage"
-会員,かいいん,kaiin,N,"member, the membership"
-絵画,かいが,kaiga,N,"picture, painting"
-海外,かいがい,kaigai,N,"foreign, abroad, overseas"
-会計,かいけい,kaikei,N,"account, finance"
-解決,かいけつ,kaiketsu,N,"settlement, solution, resolution"
-会合,かいごう,kaigou,N,"meeting, assembly"
-外交,がいこう,gaikou,N,diplomacy
-開始,かいし,kaishi,N,"start, commencement, beginning"
-解釈,かいしゃく,kaishaku,N,"explanation, interpretation"
-外出,がいしゅつ,gaishutsu,N,"outing, going out"
-改善,かいぜん,kaizen,N,"betterment, improvement"
-快適,かいてき,kaiteki,N,"pleasant, agreeable"
-回復,かいふく,kaifuku,N,"recovery, rehabilitation"
-飼う,かう,kau,V-godan,"to keep, to own, to raise, to feed"
-帰す,かえす,kaesu,V-godan,to send back
-代える,かえる,kaeru,V-ichi,"to exchange, to interchange"
-替える,かえる,kaeru,V-ichi,"to exchange, to interchange"
-換える,かえる,kaeru,V-ichi,"to exchange, to interchange"
-反る,かえる,kaeru,V-ichi,"to warp, to be warped, to curve"
-香り,かおり,kaori,N,"aroma, fragrance"
-画家,がか,gaka,N,painter
-抱える,かかえる,kakaeru,V-ichi,to hold or carry under or in the arms
-価格,かかく,kakaku,N,"price, value"
-化学,かがく,kagaku,N,chemistry
-輝く,かがやく,kagayaku,V-godan,"to shine, to glitter, to sparkle"
-係,かかり,kakari,N,person in charge
-罹る,かかる,kakaru,V-godan,to suffer from
-限る,かぎる,kagiru,V-ichi,"to restrict, to limit, to confine"
-掻く,かく,kaku,V-godan,to scratch
-描く,かく,kaku,V-godan,"to draw, to depict, to describe"
-嗅ぐ,かぐ,kagu,V-godan,"to sniff, to smell"
-家具,かぐ,kagu,N,furniture
-学,がく,gaku,N,"learning, knowledge"
-額,がく,gaku,N,"amount, frame"
-覚悟,かくご,kakugo,N,"resolution, resignation, readiness"
-確実,かくじつ,kakujitsu,N,"certainty, reliability, soundness"
-学者,がくしゃ,gakusha,N,scholar
-学習,がくしゅう,gakushuu,N,"study, learning"
-隠す,かくす,kakusu,V-godan,"to hide, to conceal"
-拡大,かくだい,kakudai,N,"magnification, enlargement"
-確認,かくにん,kakunin,N,"affirmation, confirmation"
-学問,がくもん,gakumon,N,"scholarship, study, learning"
-隠れる,かくれる,kakureru,V-ichi,"to hide, to be hidden"
-影,かげ,kage,N,"shade, shadow, other side"
-陰,かげ,kage,N,"shade, shadow, other side"
-欠ける,かける,kakeru,V-ichi,to be lacking
-加減,かげん,kagen,N,adjustment
-過去,かこ,kako,N,past
-籠,かご,kago,N,"basket, cage"
-囲む,かこむ,kakomu,V-godan,"to surround, to encircle"
-火災,かさい,kasai,N,"conflagration, fire"
-重なる,かさなる,kasanaru,V-godan,to be piled up
-重ねる,かさねる,kasaneru,V-ichi,to pile up
-飾り,かざり,kazari,N,decoration
-貸し,かし,kashi,N,"loan, lending"
-菓子,かし,kashi,N,"confectionery, sweet"
-家事,かじ,kaji,N,"household matters, housework )"
-賢い,かしこい,kashikoi,N,"wise, clever, smart"
-歌手,かしゅ,kashu,N,singer
-数,かず,kazu,N,"number, figure, amount"
-稼ぐ,かせぐ,kasegu,V-godan,"to earn income, to labor"
-数える,かぞえる,kazoeru,V-ichi,to count
-型,かた,kata,N,"mold, model, style"
-肩,かた,kata,N,shoulder
-堅い,かたい,katai,N,"hard, firm, solid"
-硬い,かたい,katai,N,"hard, firm, solid"
-方々,かたがた,katagata,N,persons
-片付く,かたづく,katadzuku,V-godan,"to put in order, to solve"
-刀,かたな,katana,N,"sword, saber"
-語る,かたる,kataru,V-godan,"to talk, to tell, to recite"
-勝ち,かち,kachi,N,"win, victory"
-価値,かち,kachi,N,"value, worth, merit"
-がっかり,がっかり,gakkari,N,"feel disappointed, be dejected"
-活気,かっき,kakki,N,"vigor, liveliness, vitality"
-楽器,がっき,gakki,N,musical instrument
-学期,がっき,gakki,N,term
-活動,かつどう,katsudou,N,"action, activity"
-活躍,かつやく,katsuyaku,N,activity
-活用,かつよう,katsuyou,N,"conjugation, practical use"
-仮定,かてい,katei,N,"assumption, supposition"
-過程,かてい,katei,N,process
-課程,かてい,katei,N,"course, curriculum"
-悲しむ,かなしむ,kanashimu,V-godan,"to be sad, to mourn for, to regret"
-必ずしも,かならずしも,kanarazushimo,N,"always, necessarily"
-かなり,かなり,kanari,N,"considerably, fairly, quite"
-金,かね,kane,N,"gold, metal, money"
-鐘,かね,kane,N,"bell, chime"
-可能,かのう,kanou,N,"possible, practicable, feasible"
-株,かぶ,kabu,N,"stock, stump"
-被る,かぶる,kaburu,V-godan,"to wear, to be covered with"
-我慢,がまん,gaman,N,"patience, endurance, perseverance"
-上,かみ,kami,N,"first volume, superior quality"
-神,かみ,kami,N,god
-雷,かみなり,kaminari,N,thunder
-髪の毛,かみのけ,kaminoke,N,hair
-科目,かもく,kamoku,N,"subject, curriculum, course"
-かもしれない,かもしれない,kamoshirenai,Adv,"maybe, perhaps"
-かゆい,かゆい,kayui,い-A,"itchy, itching"
-歌謡,かよう,kayou,N,"song, ballad"
-空,から,kara,N,empty
-殻,から,kara,N,"shell, husk, hull"
-柄,がら,gara,N,"pattern, build, character"
-刈る,かる,karu,V-godan,"to cut, to mow, to harvest"
-河,かわ,kawa,N,"river, stream"
-皮,かわ,kawa,N,"skin, hide, leather"
-革,かわ,kawa,N,leather
-可愛そう,かわいそう,kawaisou,N,"poor, pitiable, pathetic"
-可愛らしい,かわいらしい,kawairashii,い-A,"lovely, sweet"
-乾かす,かわかす,kawakasu,V-godan,to dry
-渇く,かわく,kawaku,V-godan,to be thirsty
-代る,かわる,kawaru,V-godan,"to take the place of, to relieve"
-缶,かん,kan,N,"can, tin"
-勘,かん,kan,N,"perception, intuition"
-考え,かんがえ,kangae,N,"thinking, thought, ideas"
-感覚,かんかく,kankaku,N,"sense, sensation"
-間隔,かんかく,kankaku,N,"space, interval, SPC"
-観客,かんきゃく,kankyaku,N,"audience, spectator"
-環境,かんきょう,kankyou,N,"environment, circumstance"
-歓迎,かんげい,kangei,Expr,"welcome, reception"
-観光,かんこう,kankou,N,sightseeing
-観察,かんさつ,kansatsu,N,"observation, survey"
-感じ,かんじ,kanji,N,"feeling, sense, impression"
-感謝,かんしゃ,kansha,N,"thanks, gratitude"
-患者,かんじゃ,kanja,N,patient
-勘定,かんじょう,kanjou,N,"calculation, counting"
-感情,かんじょう,kanjou,N,"emotion, feeling, sentiment"
-感じる,かんじる,kanjiru,V-ichi,"to feel, to sense"
-感心,かんしん,kanshin,N,admiration
-関心,かんしん,kanshin,N,"concern, interest"
-関する,かんする,kansuru,V-suru,"to concern, to be related"
-完成,かんせい,kansei,N,"complete, completion, perfection"
-完全,かんぜん,kanzen,な-A,"perfection, completeness"
-乾燥,かんそう,kansou,N,"dry, arid, dehydrated"
-感想,かんそう,kansou,N,"impressions, thoughts"
-感動,かんどう,kandou,N,"being deeply moved, excitement"
-監督,かんとく,kantoku,N,"supervision, control, director"
-管理,かんり,kanri,N,"control, management (e.g."
-完了,かんりょう,kanryou,N,"completion, conclusion"
-関連,かんれん,kanren,N,"relation, connection, relevance"
-議員,ぎいん,giin,N,"member of the Diet, congress"
-記憶,きおく,kioku,N,"memory, recollection, remembrance"
-気温,きおん,kion,N,temperature
-機械,きかい,kikai,N,"machine, machinery"
-器械,きかい,kikai,N,instrument
-議会,ぎかい,gikai,N,"Diet, congress, parliament"
-期間,きかん,kikan,N,"period, term"
-機関,きかん,kikan,N,"engine, institution, organization"
-企業,きぎょう,kigyou,N,"industry, business, undertaking"
-効く,きく,kiku,V-godan,to be effective
-期限,きげん,kigen,N,"deadline, term"
-機嫌,きげん,kigen,N,"humor, temper, mood"
-気候,きこう,kikou,N,climate
-岸,きし,kishi,N,"bank, coast, shore"
-生地,きじ,kiji,N,"fabric, dough"
-記事,きじ,kiji,N,"article, news story"
-技師,ぎし,gishi,N,"engineer, technician"
-記者,きしゃ,kisha,N,reporter
-傷,きず,kizu,N,"wound, injury, hurt"
-期待,きたい,kitai,N,"expectation, anticipation, hope"
-気体,きたい,kitai,N,"vapor, gas"
-帰宅,きたく,kitaku,N,returning home
-貴重,きちょう,kichou,N,"precious, valuable"
-議長,ぎちょう,gichou,N,chairman
-きちんと,きちんと,kichinto,N,"precisely, accurately"
-きつい,きつい,kitsui,い-A,"tight, close, intense"
-気付く,きづく,kidzuku,V-godan,"to notice, to recognize"
-気に入る,きにいる,kiniiru,V-ichi,"to like, to be please"
-記入,きにゅう,kinyuu,N,"entry, filling in of forms"
-記念,きねん,kinen,N,"commemoration, memory"
-機能,きのう,kinou,N,"function, faculty"
-気の毒,きのどく,kinodoku,N,"pitiful, a pity"
-寄付,きふ,kifu,N,"contribution, donation"
-希望,きぼう,kibou,N,"hope, wish, aspiration"
-基本,きほん,kihon,N,"basic, basis"
-決まり,きまり,kimari,N,"settlement, conclusion, rule"
-気味,きみ,kimi,N,"-like, -looking, -looked"
-奇妙,きみょう,kimyou,な-A,"strange, queer, curious"
-義務,ぎむ,gimu,N,"duty, obligation, responsibility"
-疑問,ぎもん,gimon,N,"question, problem, doubt"
-逆,ぎゃく,gyaku,N,"reverse, opposite"
-キャプテン,キャプテン,kyaputen,N(kat),captain
-キャンプ,キャンプ,kyanpu,N(kat),camp
-旧,きゅう,kyuu,N,ex-
-級,きゅう,kyuu,N,"class, grade, rank"
-球,きゅう,kyuu,N,"globe, sphere, ball"
-休暇,きゅうか,kyuuka,N,"vacation, holiday, day off"
-休憩,きゅうけい,kyuukei,N,"rest, break, intermission"
-急激,きゅうげき,kyuugeki,N,"sudden, precipitous, radical"
-吸収,きゅうしゅう,kyuushuu,N,"absorption, suction"
-救助,きゅうじょ,kyuujo,N,"relief, aid, rescue"
-急速,きゅうそく,kyuusoku,N,"rapid (e.g., progress)"
-休息,きゅうそく,kyuusoku,N,"rest, relief, relaxation"
-急に,きゅうに,kyuuni,Adv,suddenly
-給料,きゅうりょう,kyuuryou,N,"salary, wages"
-器用,きよう,kiyou,な-A,"skillful, handy"
-教科書,きょうかしょ,kyoukasho,N,textbook
-競技,きょうぎ,kyougi,N,"game, match, contest"
-行儀,ぎょうぎ,gyougi,N,manners
-供給,きょうきゅう,kyoukyuu,N,"supply, provision"
-教授,きょうじゅ,kyouju,N,"teaching, instruction, professor"
-強調,きょうちょう,kyouchou,N,"emphasis, stress, stressed point"
-共通,きょうつう,kyoutsuu,N,"commonness, mutual"
-共同,きょうどう,kyoudou,N,"cooperation, association"
-恐怖,きょうふ,kyoufu,N,"fear, terror"
-協力,きょうりょく,kyouryoku,N,"cooperation, collaboration"
-強力,きょうりょく,kyouryoku,N,"powerful, strong"
-許可,きょか,kyoka,N,"permission, approval"
-局,きょく,kyoku,N,"office, bureau, station(TV, radio)"
-巨大,きょだい,kyodai,N,"huge, gigantic, enormous"
-嫌う,きらう,kirau,V-godan,"to hate, to dislike, to loathe"
-霧,きり,kiri,N,"fog, mist"
-切れ,きれ,kire,N,"cloth, piece, cut"
-切れる,きれる,kireru,V-ichi,"to cut well, to be sharp, to break"
-記録,きろく,kiroku,N,"record, minutes, document"
-議論,ぎろん,giron,N,"argument, discussion, dispute"
-金,きん,kin,N,"gold, metal, money"
-銀,ぎん,gin,N,silver
-禁煙,きんえん,kinen,N,No Smoking
-金額,きんがく,kingaku,N,amount of money
-金庫,きんこ,kinko,な-A,"safe, vault"
-禁止,きんし,kinshi,N,"prohibition, ban"
-金銭,きんせん,kinsen,N,"money, cash"
-金属,きんぞく,kinzoku,N,metal
-近代,きんだい,kindai,N,modern times
-緊張,きんちょう,kinchou,N,"tension, mental strain"
-筋肉,きんにく,kinniku,N,"muscle, sinews"
-金融,きんゆう,kinyuu,N,"finance, money and banking"
-句,く,ku,N,phrase
-食う,くう,kuu,N,to eat
-偶然,ぐうぜん,guuzen,N,"chance, unexpectedly"
-臭い,くさい,kusai,い-A,"stinky, smelly, bad-smelling"
-鎖,くさり,kusari,N,chain
-腐る,くさる,kusaru,V-godan,"to rot, to go bad"
-癖,くせ,kuse,N,"a habit, peculiarity"
-管,くだ,kuda,N,"pipe, tube"
-具体,ぐたい,gutai,N,"concrete, tangible, material"
-下り,くだり,kudari,N,down-train
-下る,くだる,kudaru,V-godan,"to get down, to descend"
-苦痛,くつう,kutsuu,N,"pain, agony"
-ぐっすり,ぐっすり,gussuri,N,"sound asleep, fast asleep"
-区別,くべつ,kubetsu,N,"distinction, differentiation"
-組,くみ,kumi,N,"class, team, set"
-組合,くみあい,kumiai,N,"association, union"
-組む,くむ,kumu,V-godan,to put together
-汲む,くむ,kumu,V-godan,"to draw, to scoop, to pump"
-酌む,くむ,kumu,V-godan,to serve sake
-悔しい,くやしい,kuyashii,N,"regrettable, mortifying, vexing"
-位,くらい,kurai,N,"grade, rank, about"
-暮らし,くらし,kurashi,N,"living, life style"
-クラシック,クラシック,kurashikku,N(kat),classic
-暮らす,くらす,kurasu,V-godan,"to live, to get along"
-グラス,グラス,gurasu,N(kat),"glass, grass"
-グランド,グランド,gurando,N(kat),"gland, grand, ground"
-クリーム,クリーム,kuriimu,N(kat),cream
-繰り返す,くりかえす,kurikaesu,V-godan,to repeat
-クリスマス,クリスマス,kurisumasu,N(kat),Christmas
-狂う,くるう,kuruu,V-godan,"to go mad, to get out of order"
-グループ,グループ,guruupu,N(kat),group
-苦しい,くるしい,kurushii,N,"tough, physically strenuous"
-苦しむ,くるしむ,kurushimu,V-godan,"to suffer, to groan, to be worried"
-暮れ,くれ,kure,N,year end
-苦労,くろう,kurou,N,"hardship, suffering"
-加える,くわえる,kuwaeru,V-ichi,"to append, to sum up, to add"
-咥える,くわえる,kuwaeru,V-ichi,to hold something in the mouth
-詳しい,くわしい,kuwashii,N,"detailed, full, accurate"
-加わる,くわわる,kuwawaru,V-godan,"to join in, to accede to"
-訓,くん,kun,N,native Japanese reading of a Chinese character
-軍,ぐん,gun,N,"army, force, troops"
-郡,ぐん,gun,N,"country, district"
-軍隊,ぐんたい,guntai,N,"army, troops"
-訓練,くんれん,kunren,N,"practice, training"
-下,げ,ge,N,"under, below, beneath"
-計,けい,kei,N,"plan, sum, total"
-敬意,けいい,keii,N,"respect, honor"
-経営,けいえい,keiei,N,"management, administration"
-景気,けいき,keiki,N,"condition, state, business"
-傾向,けいこう,keikou,N,"tendency, trend, inclination"
-警告,けいこく,keikoku,N,warning
-計算,けいさん,keisan,N,"calculation, reckoning"
-掲示,けいじ,keiji,N,"notice, bulletin"
-刑事,けいじ,keiji,N,"criminal case, detective"
-芸術,げいじゅつ,geijutsu,N,"art, the arts"
-契約,けいやく,keiyaku,N,"contract, compact, agreement"
-経由,けいゆ,keiyu,N,"go by the way, via"
-ケース,ケース,keesu,N(kat),case
-ゲーム,ゲーム,geemu,N(kat),game
-劇,げき,geki,N,"drama, play"
-劇場,げきじょう,gekijou,N,"theater, playhouse"
-化粧,けしょう,keshou,N,make-up
-けち,けち,kechi,N,"stinginess, miser"
-血液,けつえき,ketsueki,N,blood
-結果,けっか,kekka,N,"result, consequence"
-欠陥,けっかん,kekkan,N,"defect, fault, deficiency"
-結局,けっきょく,kekkyoku,N,"after all, eventually"
-決心,けっしん,kesshin,N,"determination, resolution"
-欠席,けっせき,kesseki,N,"absence, non-attendance"
-決定,けってい,kettei,N,"decision, determination"
-欠点,けってん,ketten,N,"faults, defect, weakness"
-結論,けつろん,ketsuron,N,conclusion
-煙,けむり,kemuri,N,"smoke, fumes"
-蹴る,ける,keru,V-ichi,to kick
-券,けん,ken,N,"ticket, certificate"
-県,けん,ken,N,prefecture
-見解,けんかい,kenkai,N,"opinion, point of view"
-限界,げんかい,genkai,N,"limit, bound"
-現金,げんきん,genkin,N,cash
-言語,げんご,gengo,N,language
-健康,けんこう,kenkou,N,health
-検査,けんさ,kensa,N,"inspection, examination"
-現在,げんざい,genzai,N,"now ), present, current"
-現実,げんじつ,genjitsu,N,reality
-現象,げんしょう,genshou,N,phenomenon
-現状,げんじょう,genjou,N,"present condition, status quo"
-建設,けんせつ,kensetsu,N,"construction, foundation"
-現代,げんだい,gendai,N,"today, present-day"
-建築,けんちく,kenchiku,N,"construction, architecture"
-見当,けんとう,kentou,N,"estimate, guess"
-検討,けんとう,kentou,N,"consideration, examination"
-現場,げんば,genba,N,"actual spot, scene, field"
-憲法,けんぽう,kenpou,N,constitution
-権利,けんり,kenri,N,"right, privilege"
-後,ご,go,N,"afterwards, since then"
-碁,ご,go,N,Go
-恋,こい,koi,N,"love, tender passion"
-濃い,こい,koi,い-A,"thick (as of color, liquid), dense"
-恋人,こいびと,koibito,N,"lover, sweetheart, girlfriend"
-幸運,こううん,kouun,N,"good luck, fortune"
-講演,こうえん,kouen,N,"lecture, talk"
-効果,こうか,kouka,N,"effect, result"
-硬貨,こうか,kouka,N,coin
-高価,こうか,kouka,N,high price
-豪華,ごうか,gouka,な-A,"luxurious, gorgeous, extravagance"
-合格,ごうかく,goukaku,N,"success, passing (e.g., exam)"
-交換,こうかん,koukan,N,"exchange, swap"
-航空,こうくう,koukuu,N,"aviation, flying"
-光景,こうけい,koukei,N,"scene, spectacle"
-合計,ごうけい,goukei,N,"sum total, total amount"
-攻撃,こうげき,kougeki,N,"attack, strike, offensive"
-貢献,こうけん,kouken,N,"contribution, services"
-広告,こうこく,koukoku,N,advertisement
-交際,こうさい,kousai,N,"friendship, association"
-校舎,こうしゃ,kousha,N,school building
-後者,こうしゃ,kousha,N,the latter
-工場,こうば,kouba,N,"factory, plant"
-公正,こうせい,kousei,Adv,"justice, fairness, impartiality"
-構成,こうせい,kousei,N,"organization, composition"
-高速,こうそく,kousoku,N,"high speed, high gear"
-行動,こうどう,koudou,N,"action, conduct, behavior"
-強盗,ごうとう,goutou,N,"robbery, burglary"
-後輩,こうはい,kouhai,N,junior members of a group
-幸福,こうふく,koufuku,N,"happiness, blessedness"
-公平,こうへい,kouhei,N,"fairness, impartial, justice"
-候補,こうほ,kouho,N,candidacy
-考慮,こうりょ,kouryo,N,"consideration, taking into account"
-越える,こえる,koeru,V-ichi,"to exceed, to cross over, to cross"
-超える,こえる,koeru,V-ichi,"to exceed, to cross over, to cross"
-コーチ,コーチ,koochi,N(kat),coach
-コード,コード,koodo,N(kat),"code, cord, chord"
-氷,こおり,koori,N,"ice, hail"
-凍る,こおる,kooru,V-godan,"to freeze, to be frozen over"
-ゴール,ゴール,gooru,N(kat),goal
-誤解,ごかい,gokai,N,misunderstanding
-語学,ごがく,gogaku,N,language study
-呼吸,こきゅう,kokyuu,N,"breath, respiration"
-故郷,こきょう,kokyou,N,hometown
-極,ごく,goku,Adv,"quite, very"
-国語,こくご,kokugo,N,national language
-国籍,こくせき,kokuseki,N,nationality
-黒板,こくばん,kokuban,N,blackboard
-克服,こくふく,kokufuku,N,"conquest, overcome"
-国民,こくみん,kokumin,N,"national, people, citizen"
-穀物,こくもつ,kokumotsu,N,"grain, cereal, corn"
-腰,こし,koshi,N,"hip, waist"
-胡椒,こしょう,koshou,N,pepper
-個人,こじん,kojin,N,"individual, private person"
-越す,こす,kosu,V-godan,"to go over (e.g., with audience)"
-超す,こす,kosu,V-godan,"to cross, to pass, to tide over"
-国家,こっか,kokka,N,"state, country, nation"
-国会,こっかい,kokkai,N,"National Diet, parliament"
-国境,こっきょう,kokkyou,N,national or state border
-骨折,こっせつ,kossetsu,N,bone fracture
-小包,こづつみ,kodzutsumi,N,"parcel, package"
-琴,こと,koto,N,Japanese harp
-異なる,ことなる,kotonaru,V-godan,"to differ, to vary"
-諺,ことわざ,kotowaza,N,"proverb, saying"
-断る,ことわる,kotowaru,V-godan,"to refuse, to decline, to dismiss"
-粉,こな,kona,N,"flour, powder"
-好み,このみ,konomi,N,"liking, taste, choice"
-好む,このむ,konomu,V-godan,"to like, to prefer"
-こぼす,こぼす,kobosu,V-godan,to spill
-こぼれる,こぼれる,koboreru,V-ichi,"to overflow, to spill"
-塵,ごみ,gomi,N,"garbage, litter"
-小麦,こむぎ,komugi,N,wheat
-ごめんなさい,ごめんなさい,gomennasai,N,"I beg your pardon, excuse me"
-小屋,こや,koya,N,"hut, cabin, shed"
-これら,これら,korera,N,these
-殺す,ころす,korosu,V-godan,to kill
-転ぶ,ころぶ,korobu,V-godan,"to fall down, to fall over"
-今回,こんかい,konkai,い-A,"now, this time, lately"
-今後,こんご,kongo,N,"from now on, hereafter"
-混雑,こんざつ,konzatsu,N,"confusion, congestion"
-こんなに,こんなに,konnani,N,"so, like this, in this way"
-困難,こんなん,konnan,N,"difficulty, distress"
-今日,こんにち,konnichi,N,"today, this day"
-こんにちは,こんにちは,konnichiha,Expr,"hello, good day"
-婚約,こんやく,konyaku,N,"engagement, betrothal"
-混乱,こんらん,konran,N,"chaos, confusion, mayhem"
-差,さ,sa,N,"difference, variation"
-サービス,サービス,saabisu,N(kat),"service, support system"
-際,さい,sai,N,"on the occasion of, circumstances"
-最高,さいこう,saikou,N,"highest, supreme, the most"
-財産,ざいさん,zaisan,N,"property, fortune, assets"
-最終,さいしゅう,saishuu,N,"last, closing"
-最中,さいちゅう,saichuu,N,in the middle of
-最低,さいてい,saitei,N,"least, lowest, worst"
-才能,さいのう,sainou,N,"talent, ability"
-裁判,さいばん,saiban,N,"trial, judgment"
-材料,ざいりょう,zairyou,N,"ingredients, material"
-幸い,さいわい,saiwai,N,"fortunately, luckily"
-サイン,サイン,sain,N(kat),"autograph, sign, sine"
-境,さかい,sakai,N,"border, boundary, mental state"
-逆らう,さからう,sakarau,V-godan,"to go against, to oppose"
-盛り,さかり,sakari,N,"helping, serving"
-作業,さぎょう,sagyou,N,"work, operation, manufacturing"
-裂く,さく,saku,V-godan,"to tear, to split"
-昨,さく,saku,N,"last, yesterday"
-作品,さくひん,sakuhin,N,"work, opus, production"
-作物,さくもつ,sakumotsu,N,"produce (e.g., agricultural)"
-桜,さくら,sakura,N,"cherry blossom, cherry tree"
-酒,さけ,sake,N,"alcohol, sake"
-叫ぶ,さけぶ,sakebu,V-godan,"to shout, to cry"
-避ける,さける,sakeru,V-ichi,"to avoid, to ward off, to avert"
-支える,ささえる,sasaeru,N,"support, hold, sustain"
-刺さる,ささる,sasaru,V-godan,"to stick, to be stuck"
-刺す,さす,sasu,V-godan,"to sting, to bite (e.g., bug)"
-指す,さす,sasu,V-godan,to point
-挿す,さす,sasu,V-godan,"to insert, to put in, to graft"
-注す,さす,sasu,V-godan,"to pour, to serve"
-射す,さす,sasu,V-godan,"to shine, to strike"
-座席,ざせき,zaseki,N,seat
-誘う,さそう,sasou,V-godan,"to invite, to tempt, to lure"
-札,さつ,satsu,N,"bill, note"
-作家,さっか,sakka,N,"author, writer, novelist"
-作曲,さっきょく,sakkyoku,N,composition
-ざっと,ざっと,zatto,Adv,"roughly, in round numbers"
-さっぱり,さっぱり,sappari,N,"feeling refreshed, neat"
-さて,さて,sate,Adv,well
-砂漠,さばく,sabaku,N,desert
-差別,さべつ,sabetsu,N,"discrimination, differentiation"
-ママ,ママ,mama,N(kat),Mama
-豆,まめ,mame,N,"beans, peas"
-守る,まもる,mamoru,V-godan,"to protect, to abide"
-迷う,まよう,mayou,V-godan,"to be puzzled, to be perplexed"
-丸,まる,maru,N,"circle, full"
-円,まる,maru,N,circle
-まるで,まるで,marude,Adv,just like
-万一,まんいち,manichi,N,"by some chance, if by any chance"
-満足,まんぞく,manzoku,N,satisfaction
-身,み,mi,N,"body, main part"
-実,み,mi,N,"fruit, seed, good result"
-見送り,みおくり,miokuri,N,seeing one off
-味方,みかた,mikata,N,"ally, supporter"
-見事,みごと,migoto,な-A,"splendid, magnificent"
-ミス,ミス,misu,N(kat),"miss (mistake, error, failure)"
-満ちる,みちる,michiru,V-ichi,"to be full, to mature"
-密,みつ,mitsu,N,"thick, close"
-認める,みとめる,mitomeru,V-ichi,"to recognize, to notice"
-見舞い,みまい,mimai,Expr,expression of sympathy
-土産,みやげ,miyage,N,souvenir
-都,みやこ,miyako,N,"city, capital"
-妙,みょう,myou,な-A,"strange, unusual"
-明後日,みょうごにち,myougonichi,N,day after tomorrow
-未来,みらい,mirai,N,future
-魅力,みりょく,miryoku,N,"charm, fascination, appeal"
-診る,みる,miru,V-ichi,to examine
-ミルク,ミルク,miruku,N(kat),milk
-無,む,mu,N,"nothing, naught, zero"
-向かい,むかい,mukai,N,"facing, opposite, across"
-迎え,むかえ,mukae,N,meeting
-向く,むく,muku,V-godan,to face
-剥く,むく,muku,V-godan,"to peel, to skin"
-向ける,むける,mukeru,V-ichi,"to turn towards, to point"
-無視,むし,mushi,N,"disregard, ignore"
-蒸し暑い,むしあつい,mushiatsui,N,"humid, sultry"
-虫歯,むしば,mushiba,N,"cavity, tooth decay"
-寧ろ,むしろ,mushiro,N,"rather, better, instead"
-蒸す,むす,musu,V-godan,"to steam, to poultice"
-結ぶ,むすぶ,musubu,V-godan,"to tie, to bind, to link"
-無駄,むだ,muda,N,"futility, uselessness"
-夢中,むちゅう,muchuu,N,"crush, crazy, be hooked on"
-胸,むね,mune,N,"breast, chest"
-無料,むりょう,muryou,N,"free, no charge"
-芽,め,me,N,sprout
-明確,めいかく,meikaku,N,"clear, definite"
-名刺,めいし,meishi,N,"card, business card"
-名詞,めいし,meishi,N,noun
-命じる,めいじる,meijiru,V-ichi,"to order, to command, to appoint"
-名人,めいじん,meijin,N,"master, expert"
-命令,めいれい,meirei,N,"order, command, decree"
-迷惑,めいわく,meiwaku,N,"trouble, bother, annoyance"
-目上,めうえ,meue,N,person of higher status
-飯,めし,meshi,N,"meals, food"
-滅多に,めったに,mettani,Adv,"rarely, seldom"
-メモ,メモ,memo,N(kat),"memorandum, note"
-面,めん,men,N,"face, mug, surface, side or facet"
-綿,めん,men,N,cotton
-免許,めんきょ,menkyo,N,"license, permit, certificate"
-面接,めんせつ,mensetsu,N,interview
-面倒,めんどう,mendou,N,"trouble, attention"
-メンバー,メンバー,menbaa,N(kat),member
-申し込む,もうしこむ,moushikomu,V-godan,to apply for
-申し訳,もうしわけ,moushiwake,N,"apology, excuse"
-毛布,もうふ,moufu,N,blanket
-燃える,もえる,moeru,V-ichi,to burn
-目的,もくてき,mokuteki,N,"purpose, goal, aim"
-目標,もくひょう,mokuhyou,N,"mark, objective, target"
-文字,もじ,moji,N,"letter, character"
-文字,もんじ,monji,N,"letter, character"
-もしかすると,もしかすると,moshikasuruto,Adv,"perhaps, maybe, by some chance"
-もしも,もしも,moshimo,N,if
-持ち上げる,もちあげる,mochiageru,V-ichi,"to raise, to lift up, to flatter"
-用いる,もちいる,mochiiru,V-ichi,"to use, to make use of"
-もったいない,もったいない,mottainai,N,"wasteful, more than one deserves"
-尤も,もっとも,mottomo,Adv,"quite right, plausible, natural"
-元,もと,moto,N,"origin, original, former"
-基,もと,moto,N,basis
-素,もと,moto,N,prime
-戻す,もどす,modosu,V-godan,"to restore, to put back, to return"
-基づく,もとづく,motodzuku,V-godan,"to be grounded on, to be based on"
-求める,もとめる,motomeru,V-ichi,"to request, to ask for, to seek"
-者,もの,mono,N,person )
-物音,ものおと,monooto,N,sounds
-物語,ものがたり,monogatari,N,"tale, story, legend"
-物事,ものごと,monogoto,N,"things, everything"
-燃やす,もやす,moyasu,V-godan,to burn
-模様,もよう,moyou,N,"pattern, figure, design"
-文句,もんく,monku,N,a complaint
-やがて,やがて,yagate,Adv,"before long, soon, at length"
-役,やく,yaku,N,"role, position"
-約,やく,yaku,Adv,"approximately, about, some"
-訳,やく,yaku,N,translation
-訳す,やくす,yakusu,V-godan,to translate
-役割,やくわり,yakuwari,N,"assigning  parts, role, duties"
-家賃,やちん,yachin,N,rent
-厄介,やっかい,yakkai,N,"trouble, burden, care"
-宿,やど,yado,N,"inn, lodging"
-雇う,やとう,yatou,V-godan,"to employ, to hire"
-屋根,やね,yane,N,roof
-破る,やぶる,yaburu,V-godan,"to tear, to violate, to defeat"
-破れる,やぶれる,yabureru,V-ichi,"to get torn, to wear out"
-辞める,やめる,yameru,V-ichi,to retire
-やや,やや,yaya,Adv,"a little, partially, somewhat"
-唯一,ゆいいつ,yuiitsu,Adv,"only, sole, unique"
-勇気,ゆうき,yuuki,N,"courage, bravery, boldness"
-友好,ゆうこう,yuukou,N,friendship
-有効,ゆうこう,yuukou,N,"valid, effectual"
-優秀,ゆうしゅう,yuushuu,N,"superiority, excellence"
-優勝,ゆうしょう,yuushou,N,"overall victory, championship"
-友情,ゆうじょう,yuujou,N,"friendship, fellowship"
-友人,ゆうじん,yuujin,N,friend
-有能,ゆうのう,yuunou,N,"able, capable, efficient"
-郵便,ゆうびん,yuubin,N,"mail, postal service"
-ユーモア,ユーモア,yuumoa,N(kat),humor
-有利,ゆうり,yuuri,N,"advantageous, better"
-床,ゆか,yuka,N,floor
-愉快,ゆかい,yukai,い-A,"pleasant, happy"
-譲る,ゆずる,yuzuru,V-godan,"to turn over, to assign"
-豊か,ゆたか,yutaka,N,"abundant, wealthy, plentiful, rich"
-茹でる,ゆでる,yuderu,V-ichi,to boil
-許す,ゆるす,yurusu,V-godan,"to permit, to allow, to approve"
-夜,よ,yo,N,"evening, night"
-夜明け,よあけ,yoake,N,"dawn, daybreak"
-酔う,よう,you,V-godan,to get drunk
-容易,ようい,youi,N,"easy, simple, plain"
-容器,ようき,youki,N,"container, vessel"
-陽気,ようき,youki,N,"season, weather, cheerfulness"
-要求,ようきゅう,youkyuu,N,"request, demand"
-用心,ようじん,youjin,N,"care, precaution, caution"
-様子,ようす,yousu,N,"aspect, state, appearance"
-要するに,ようするに,yousuruni,N,"in a word, after all, in short …"
-要素,ようそ,youso,N,element
-要点,ようてん,youten,N,"gist, main point"
-曜日,ようび,youbi,N,day of the week
-ヨーロッパ,ヨーロッパ,yooroppa,N(kat),Europe
-予期,よき,yoki,N,"expectation, forecast"
-横切る,よこぎる,yokogiru,V-ichi,"to cross (e.g., arms), to traverse"
-汚す,よごす,yogosu,V-godan,"to pollute, to make dirty"
-予算,よさん,yosan,N,"estimate, budget"
-止す,よす,yosu,V-godan,"to cease, to give up"
-寄せる,よせる,yoseru,V-ichi,"to collect, to gather"
-予測,よそく,yosoku,N,"prediction, estimation"
-ヨット,ヨット,yotto,N(kat),yacht
-夜中,よなか,yonaka,N,"midnight, dead of night"
-世の中,よのなか,yononaka,N,"society, the world"
-余分,よぶん,yobun,N,"extra, excess, surplus"
-予報,よほう,yohou,N,"forecast, prediction"
-予防,よぼう,yobou,N,"prevention, protection against"
-読み,よみ,yomi,N,reading
-嫁,よめ,yome,N,"bride, daughter-in-law"
-余裕,よゆう,yoyuu,N,"excess, surplus"
-より,より,yori,N,"twist, ply"
-因る,よる,yoru,V-godan,to come from
-喜び,よろこび,yorokobi,N,"joy, pleasure, rejoicing"
-よろしく (かん),よろしく (かん),yoroshiku (kan),N,"best regards, please remember me"
-四,よん,yon,N,four
-来,らい～,rai～,Pref,next ~
-ライター,ライター,raitaa,N(kat),"lighter, writer"
-楽,らく,raku,N,"comfort, ease"
-ラケット,ラケット,raketto,N(kat),racket
-利益,りえき,rieki,N,"profits, gains"
-理解,りかい,rikai,N,"understanding, comprehension"
-陸,りく,riku,N,"land, shore"
-利口,りこう,rikou,N,"clever, shrewd, bright"
-離婚,りこん,rikon,N,divorce
-理想,りそう,risou,N,ideal
-率,りつ,ritsu,N,"rate, ratio, percentage"
-留学,りゅうがく,ryuugaku,N,studying abroad
-流行,りゅうこう,ryuukou,N,"fashionable, fad, prevailing"
-量,りょう,ryou,N,"quantity, amount"
-寮,りょう,ryou,N,"hostel, dormitory"
-両替,りょうがえ,ryougae,N,"change, money exchange"
-料金,りょうきん,ryoukin,N,"fee, charge, fare"
-例,れい,rei,N,"instance, example, case"
-礼,れい,rei,Expr,"expression of gratitude, bow"
-例外,れいがい,reigai,N,exception
-礼儀,れいぎ,reigi,N,"manners, courtesy, etiquette"
-冷静,れいせい,reisei,い-A,"calm, coolness"
-列,れつ,retsu,N,"queue, line, row"
-列車,れっしゃ,ressha,N,train
-レベル,レベル,reberu,N(kat),level
-連想,れんそう,rensou,N,"association, suggestion"
-連続,れんぞく,renzoku,N,"consecutive, continuity"
-老人,ろうじん,roujin,N,"the aged, old person"
-労働,ろうどう,roudou,N,"labor, work"
-ロケット,ロケット,roketto,N(kat),"locket, rocket"
-論じる,ろんじる,ronjiru,V-ichi,"to argue, to discuss"
-論争,ろんそう,ronsou,N,"controversy, dispute"
-論文,ろんぶん,ronbun,N,"thesis, paper"
-輪,わ,wa,N,"ring, hoop, circle"
-ワイン,ワイン,wain,N(kat),wine
-わがまま,わがまま,wagamama,N,"selfishness, egoism, willfulness"
-別れ,わかれ,wakare,N,"parting, separation, farewell"
-分かれる,わかれる,wakareru,V-ichi,"to branch off, to diverge from"
-脇,わき,waki,N,side
-湧く,わく,waku,V-godan,"to boil, to grow hot"
-分ける,わける,wakeru,V-ichi,"to divide, to separate"
-わざと,わざと,wazato,N,on purpose
-僅か,わずか,wazuka,Adv,"only, merely, a little"
-綿,わた,wata,N,cotton
-話題,わだい,wadai,N,"topic, subject"
-笑い,わらい,warai,N,"laugh, laughter, smile"
-割る,わる,waru,V-godan,"to divide, to break"
-悪口,わるくち,warukuchi,N,"abuse, insult"
-我々,われわれ,wareware,N,we
-湾,わん,wan,N,"bay, gulf, inlet"
-椀,わん,wan,N,bowl
-碗,わん,wan,N,bowl
-悪,あく,aku,N,"evil, vice"
-当り,あたり,atari,N,"hit, success, reaching the mark"
-アップ,アップ,appu,N(kat),up
-宛てる,あてる,ateru,V-ichi,"to address, to put"
-アンケート,アンケート,ankeeto,N(kat),"questionnaire, survey"
-異,い,i,N,difference
-意,い,i,N,will
-医院,いいん,iin,N,"doctor's office, clinic"
-怒り,いかり,ikari,N,anger
-粋,いき,iki,N,"chic, style, purity"
-意地,いじ,iji,N,"disposition, spirit, obstinacy"
-依然,いぜん,izen,Adv,"still, as yet"
-傷める,いためる,itameru,V-ichi,"to damage, to impair, to spoil"
-炒める,いためる,itameru,V-ichi,to stir-fry
-一帯,いったい,ittai,N,"a region, the whole place"
-異動,いどう,idou,N,"a change, transfer"
-衣料,いりょう,iryou,N,clothing
-渦,うず,uzu,N,swirl
-埋まる,うまる,umaru,V-godan,"to be buried, to be filled"
-産む,うむ,umu,V-godan,"to give birth, to deliver"
-縁,えん,en,N,"chance, tie, relationship"
-尾,お,o,N,"tail, ridge"
-負う,おう,ou,V-godan,"to bear, to owe"
-遅れ,おくれ,okure,N,"delay, lag"
-教え,おしえ,oshie,N,"teachings, doctrine"
-驚き,おどろき,odoroki,N,"surprise, astonishment, wonder"
-織る,おる,oru,V-godan,to weave
-欠く,かく,kaku,V-godan,"to lack, to crack"
-角,かく,kaku,N,angle
-核,かく,kaku,N,"nucleus, kernel"
-格,かく,kaku,N,"status, character, case"
-学歴,がくれき,gakureki,N,academic background
-駆ける,かける,kakeru,V-ichi,to run
-賭ける,かける,kakeru,V-ichi,"to bet, to risk, to gamble"
-課題,かだい,kadai,N,"subject, theme, task"
-片付け,かたづけ,katadzuke,N,"tidying up, finishing"
-加味,かみ,kami,N,"seasoning, flavoring"
-借り,かり,kari,N,"borrowing, debt, loan"
-狩り,かり,kari,N,hunting
-管,かん,kan,N,"pipe, tube"
-～観,かん,kan,Suf,"feeling, view"
-癌,がん,gan,N,cancer
-刊行,かんこう,kankou,N,"publication, issue"
-慣行,かんこう,kankou,N,"customary practice, habit"
-歓声,かんせい,kansei,N,"cheer, shout of joy"
-官僚,かんりょう,kanryou,N,"bureaucrat, bureaucracy"
-器官,きかん,kikan,N,"organ (of body, instrument)"
-季刊,きかん,kikan,N,"quarterly (e.g., magazine)"
-起源,きげん,kigen,N,"origin, beginning, rise"
-機構,きこう,kikou,N,"mechanism, organization"
-築く,きずく,kizuku,V-godan,"to build, to establish"
-規制,きせい,kisei,N,regulation
-丘陵,きゅうりょう,kyuuryou,N,hill
-協議,きょうぎ,kyougi,N,"conference, discussion"
-享受,きょうじゅ,kyouju,N,"enjoyment, being given"
-協調,きょうちょう,kyouchou,N,"co-operation, conciliation"
-切り,きり,kiri,N,"limits, place to leave off"
-菌,きん,kin,N,"germ, bacterium"
-近視,きんし,kinshi,N,nearsightedness
-苦,く,ku,N,"trouble, worry, difficulty"
-群,ぐん,gun,N,group
-刑,けい,kei,N,"penalty, sentence, punishment"
-経緯,けいい,keii,N,"sequence of events, course"
-計器,けいき,keiki,N,"meter, gauge"
-契機,けいき,keiki,N,"opportunity, chance"
-携帯,けいたい,keitai,い-A,carrying something
-形態,けいたい,keitai,N,"form, shape, figure"
-血管,けっかん,kekkan,N,blood vessel
-決行,けっこう,kekkou,N,"doing, carrying out (e.g., a plan)"
-件,けん,ken,N,"matter, case, item"
-減少,げんしょう,genshou,N,"decrease, reduction, decline"
-公演,こうえん,kouen,N,public performance
-後悔,こうかい,koukai,N,"regret, repentance"
-航海,こうかい,koukai,N,"sail, voyage"
-拘束,こうそく,kousoku,N,"restriction, restraint"
-荒廃,こうはい,kouhai,N,ruin
-降伏,こうふく,koufuku,N,"capitulation, surrender"
-興奮,こうふん,koufun,N,"excitement, stimulation"
-語句,ごく,goku,N,"words, phrases"
-個々,ここ,koko,N,"individual, one by one"
-故人,こじん,kojin,N,the deceased
-小銭,こぜに,kozeni,N,"coins, small change"
-ことによると,ことによると,kotoniyoruto,N,(depending on the circumstances)
-コンテスト,コンテスト,kontesuto,N(kat),contest
-採集,さいしゅう,saishuu,N,"collecting, gathering"
-作,さく,saku,N,"a work, a harvest"
-策,さく,saku,N,"plan, policy"
-設備,せつび,setsubi,N,"equipment, device, facilities"
-絶滅,ぜつめつ,zetsumetsu,N,"destruction, extinction"
-節約,せつやく,setsuyaku,N,"economizing, saving"
-攻める,せめる,semeru,V-ichi,"to attack, to assault"
-責める,せめる,semeru,V-ichi,"to condemn, to blame, to criticize"
-善,ぜん,zen,N,"good, virtue"
-全,ぜん,zen,N,"all, whole, entire"
-全員,ぜんいん,zenin,N,all members
-専攻,せんこう,senkou,N,"major subject, special study"
-全国,ぜんこく,zenkoku,N,"the entire nation, country-wide"
-洗剤,せんざい,senzai,N,detergent
-先日,せんじつ,senjitsu,N,"the other day, a few days ago"
-前者,ぜんしゃ,zensha,N,the former
-選手,せんしゅ,senshu,N,player selected for a team
-全身,ぜんしん,zenshin,N,"the whole body, full-length"
-前進,ぜんしん,zenshin,N,"advance, drive, progress"
-センター,センター,sentaa,N(kat),center
-全体,ぜんたい,zentai,Pron,"whole, entirety, whatever"
-選択,せんたく,sentaku,N,"selection, choice"
-宣伝,せんでん,senden,N,"advertisement, publicity"
-象,ぞう,zou,N,elephant
-騒音,そうおん,souon,N,noise
-増加,ぞうか,zouka,N,"increase, addition"
-操作,そうさ,sousa,N,"operation, management, processing"
-想像,そうぞう,souzou,N,"imagination, guess"
-相続,そうぞく,souzoku,N,"succession, inheritance"
-装置,そうち,souchi,N,"equipment, installation, apparatus"
-相当,そうとう,soutou,N,"considerably, fairly, worth ~"
-速度,そくど,sokudo,N,"speed, velocity, rate"
-底,そこ,soko,N,"bottom, sole"
-そこで,そこで,sokode,N,"so, accordingly"
-組織,そしき,soshiki,N,"organization, structure, tissue"
-そして,そして,soshite,Conj,and then
-注ぐ,そそぐ,sosogu,V-godan,to pour
-育つ,そだつ,sodatsu,V-godan,"to be brought up, to grow"
-そっくり,そっくり,sokkuri,N,"the splitting image of, entirely"
-そっと,そっと,sotto,Adv,"softly, gently"
-袖,そで,sode,N,sleeve
-備える,そなえる,sonaeru,V-ichi,"to prepare, to furnish, to store"
-具える,そなえる,sonaeru,V-ichi,to be furnished with
-そのうえ,そのうえ,sonoue,N,"in addition, furthermore"
-そのうち,そのうち,sonouchi,Adv,"before long, eventually"
-そのまま,そのまま,sonomama,N,"without change, as it is (e.g."
-蕎麦,そば,soba,N,soba
-ソファー,ソファー,sofaa,N(kat),"sofa, couch"
-粗末,そまつ,somatsu,N,"humble, miserable, crude"
-それぞれ,それぞれ,sorezore,N,"each, every, respectively"
-それでも,それでも,soredemo,N,"but, and yet, nevertheless"
-それと,それと,soreto,Conj,and
-それとも,それとも,soretomo,N,"or, or else"
-揃う,そろう,sorou,V-godan,"to become complete, to be equal"
-揃える,そろえる,soroeru,V-ichi,"to put things in order, to arrange"
-損,そん,son,N,"loss, disadvantage"
-損害,そんがい,songai,N,"damage, loss"
-尊敬,そんけい,sonkei,N,"respect, reverence, honor"
-存在,そんざい,sonzai,N,"existence, being"
-尊重,そんちょう,sonchou,N,"respect, esteem, regard"
-田,た,ta,N,rice field
-他,た,ta,N,other
-対,たい,tai,N,"pair, couple, set"
-大,だい,dai,い-A,"big, great"
-題,だい,dai,N,"title, subject, theme"
-体育,たいいく,taiiku,N,"physical education, gymnastics"
-体温,たいおん,taion,N,temperature
-大会,たいかい,taikai,い-A,"convention, tournament"
-大気,たいき,taiki,N,atmosphere
-代金,だいきん,daikin,N,"price, cost"
-退屈,たいくつ,taikutsu,N,"tedium, boring"
-滞在,たいざい,taizai,N,"stay, sojourn"
-大使,たいし,taishi,N,ambassador
-大した,たいした,taishita,N,"significant, great, considerable"
-体重,たいじゅう,taijuu,N,weight
-対象,たいしょう,taishou,N,"target, object (of worship, study"
-対照,たいしょう,taishou,N,"contrast, antithesis, comparison"
-大臣,だいじん,daijin,N,cabinet minister
-対する,たいする,taisuru,V-suru,"to face, to confront, to oppose"
-大戦,たいせん,taisen,N,"great war, great battle"
-態度,たいど,taido,N,"attitude, manner"
-大統領,だいとうりょう,daitouryou,N,president
-大半,たいはん,taihan,N,"most of, majority, mostly"
-代表,だいひょう,daihyou,N,"representative, delegation"
-大部分,だいぶぶん,daibubun,N,"most part, majority"
-タイプライター,タイプライター,taipuraitaa,N(kat),typewriter
-逮捕,たいほ,taiho,N,"arrest, apprehension, capture"
-題名,だいめい,daimei,N,title
-ダイヤ,ダイヤ,daiya,N(kat),"schedule, diamond"
-太陽,たいよう,taiyou,N,sun
-平ら,たいら,taira,N,"flatness, level, smooth"
-代理,だいり,dairi,N,"representation, proxy, deputy"
-大陸,たいりく,tairiku,N,continent
-倒す,たおす,taosu,V-godan,"to throw down, to beat"
-タオル,タオル,taoru,N(kat),towel
-だが,だが,daga,Conj,"but, however"
-互い,たがい,tagai,N,"mutual, each other"
-高める,たかめる,takameru,V-ichi,"to raise, to lift, to boost"
-宝,たから,takara,N,treasure
-宅,たく,taku,N,"house, home"
-炊く,たく,taku,V-godan,"to boil, to cook"
-焚く,たく,taku,V-godan,"to burn, to kindle"
-抱く,だく,daku,V-godan,"to embrace, to hug"
-だけど,だけど,dakedo,Conj,however
-たしか,たしか,tashika,N,"certain, sure"
-確かめる,たしかめる,tashikameru,V-ichi,"to ascertain, to make sure"
-多少,たしょう,tashou,Adv,a little )
-助かる,たすかる,tasukaru,V-godan,"to be saved, helps"
-助ける,たすける,tasukeru,V-ichi,"to help, to save, to rescue"
-ただ,ただ,tada,N,"free of charge, just, only"
-只,ただ,tada,N,"free of charge, mere, only"
-唯,ただ,tada,N,"mere, sole, plain"
-戦い,たたかい,tatakai,N,"battle, fight"
-戦う,たたかう,tatakau,V-godan,"to fight, to compete, to battle"
-叩く,たたく,tataku,V-godan,"to strike, to beat"
-直ちに,ただちに,tadachini,Adv,"at once, immediately"
-畳む,たたむ,tatamu,V-godan,to fold
-立ち上がる,たちあがる,tachiagaru,V-godan,to stand up
-立場,たちば,tachiba,N,"standpoint, position, situation"
-建つ,たつ,tatsu,V-godan,"to stand, to be built, to erect"
-経つ,たつ,tatsu,N,passes
-達する,たっする,tassuru,V-suru,"to reach, to get to"
-唯,たった,tatta,Adv,"only, just"
-だって,だって,datte,Conj,"but, because, even"
-たっぷり,たっぷり,tappuri,N,"full, in plenty, ample"
-たとえ,たとえ,tatoe,N,"even if, no matter, though"
-谷,たに,tani,N,valley
-他人,たにん,tanin,N,"unrelated person, stranger"
-種,たね,tane,N,"seed, material, cause"
-束,たば,taba,N,"bunch, bundle"
-足袋,たび,tabi,N,Japanese socks
-度,たび,tabi,Ctr,counter for occurrences
-旅,たび,tabi,N,"travel, trip, journey"
-たびたび,たびたび,tabitabi,Adv,"often, repeatedly, frequently"
-玉,たま,tama,N,"ball, sphere, coin"
-球,たま,tama,N,"globe, sphere, ball"
-弾,たま,tama,N,"bullet, shot"
-偶,たま,tama,N,"even number, couple, friend"
-騙す,だます,damasu,V-godan,"to trick, to cheat, to deceive"
-偶々,たまたま,tamatama,N,"unexpectedly, accidentally"
-たまらない,たまらない,tamaranai,N,"intolerable, unbearable"
-溜まる,たまる,tamaru,V-godan,"to collect, to gather"
-黙る,だまる,damaru,V-godan,to be silent
-試し,ためし,tameshi,N,"trial, test"
-試す,ためす,tamesu,V-godan,"to attempt, to test"
-溜める,ためる,tameru,V-ichi,"to accumulate, to collect"
-便り,たより,tayori,N,"news, correspondence, letter"
-頼る,たよる,tayoru,V-godan,"to rely on, to have recourse to"
-段,だん,dan,N,"step, stair, grade"
-単位,たんい,tani,い-A,"credit, unit, denomination"
-単語,たんご,tango,N,"word, vocabulary"
-男子,だんし,danshi,N,young man
-単純,たんじゅん,tanjun,N,simplicity
-誕生,たんじょう,tanjou,N,birth
-ダンス,ダンス,dansu,N(kat),dance
-団体,だんたい,dantai,N,"organization, association"
-担当,たんとう,tantou,N,charge
-単なる,たんなる,tannaru,N,"mere, simple, sheer"
-単に,たんに,tanni,N,"simply, merely"
-地,ち,chi,N,earth
-地位,ちい,chii,N,"position, status"
-地域,ちいき,chiiki,N,"area, region"
-チーズ,チーズ,chiizu,N(kat),cheese
-チーム,チーム,chiimu,N(kat),team
-知恵,ちえ,chie,N,"wisdom, wit, intelligence"
-地下,ちか,chika,N,"basement, underground"
-違い,ちがい,chigai,N,"difference, discrepancy"
-違いない,ちがいない,chigainai,N,"sure, no mistaking it, for certain"
-近頃,ちかごろ,chikagoro,N,"lately, recently, nowadays"
-地球,ちきゅう,chikyuu,N,the earth
-地区,ちく,chiku,N,"district, section"
-遅刻,ちこく,chikoku,N,"lateness, late coming"
-知事,ちじ,chiji,N,prefectural governor
-知識,ちしき,chishiki,N,"knowledge, information"
-父親,ちちおや,chichioya,N,father
-知能,ちのう,chinou,N,"intelligence, brains"
-地平線,ちへいせん,chiheisen,N,horizon
-地方,ちほう,chihou,N,"area, locality, region"
-茶,ちゃ,cha,N,tea
-チャンス,チャンス,chansu,N(kat),"chance, opportunity"
-ちゃんと,ちゃんと,chanto,な-A,"perfectly, properly, exactly"
-中,ちゅう,chuu,N,"inside, middle, among"
-注,ちゅう,chuu,N,"annotation, explanatory note"
-中央,ちゅうおう,chuuou,N,"central, center, middle"
-中学,ちゅうがく,chuugaku,N,"middle school, junior high school"
-中古,ちゅうこ,chuuko,N,"used, second-hand"
-中止,ちゅうし,chuushi,N,"suspension, stoppage"
-駐車,ちゅうしゃ,chuusha,N,"parking (e.g., car)"
-昼食,ちゅうしょく,chuushoku,N,lunch )
-中心,ちゅうしん,chuushin,N,"center, core"
-注目,ちゅうもく,chuumoku,N,"notice, attention, observation"
-注文,ちゅうもん,chuumon,N,"order, request"
-長期,ちょうき,chouki,N,long time period
-調査,ちょうさ,chousa,N,"survey, investigation"
-調子,ちょうし,choushi,N,"condition, state, tune, tone"
-頂上,ちょうじょう,choujou,N,"top, summit, peak"
-ちょうだい,ちょうだい,choudai,N,-- colloquial form of ください
-貯金,ちょきん,chokin,N,savings
-直接,ちょくせつ,chokusetsu,N,"direct, immediate, firsthand"
-著者,ちょしゃ,chosha,N,"author, writer"
-散らす,ちらす,chirasu,V-godan,"to scatter, to disperse"
-散る,ちる,chiru,V-ichi,"to fall, to scatter (e.g."
-遂に,ついに,tsuini,Adv,"finally, at last"
-通過,つうか,tsuuka,N,"passage through, passing"
-通貨,つうか,tsuuka,N,currency
-通学,つうがく,tsuugaku,N,commuting to school
-通勤,つうきん,tsuukin,N,commuting to work
-通行,つうこう,tsuukou,N,"passage, passing"
-通じる,つうじる,tsuujiru,V-ichi,"to run to, to lead to"
-通信,つうしん,tsuushin,N,"correspondence, communications"
-通訳,つうやく,tsuuyaku,N,"interpretation, interpreter"
-捕まる,つかまる,tsukamaru,V-godan,"to be arrested, to be caught"
-掴む,つかむ,tsukamu,V-godan,"to seize, to catch, to grasp"
-疲れ,つかれ,tsukare,N,"tiredness, fatigue"
-付き合い,つきあい,tsukiai,N,"socialization, friendship"
-付合う,つきあう,tsukiau,V-godan,to associate with
-次々,つぎつぎ,tsugitsugi,N,"in succession, one by one"
-付く,つく,tsuku,V-godan,"to adjoin, to be attached"
-就く,つく,tsuku,V-godan,"to settle in, to take, to study"
-突く,つく,tsuku,V-godan,"to thrust, to strike, to poke"
-次ぐ,つぐ,tsugu,V-godan,"to rank next to, to come after"
-注ぐ,つぐ,tsugu,V-godan,to pour
-付ける,つける,tsukeru,V-ichi,"to attach, to join, to add"
-着ける,つける,tsukeru,V-ichi,"to put on, to wear, to draw up"
-伝わる,つたわる,tsutawaru,V-godan,to be handed down
-土,つち,tsuchi,N,"earth, soil"
-続き,つづき,tsudzuki,N,"sequel, continuation"
-包み,つつみ,tsutsumi,N,"bundle, package"
-勤め,つとめ,tsutome,N,"work, employment"
-務め,つとめ,tsutome,N,duty
-繋がる,つながる,tsunagaru,V-godan,to be connected to
-繋ぐ,つなぐ,tsunagu,V-godan,"to tie, to fasten, to connect"
-繋げる,つなげる,tsunageru,V-ichi,to connect
-常に,つねに,tsuneni,Expr,always
-翼,つばさ,tsubasa,N,wings
-つまり,つまり,tsumari,N,"namely, in other words, in short"
-罪,つみ,tsumi,N,"crime, fault, indiscretion"
-積む,つむ,tsumu,V-godan,"to pile up, to stack"
-詰める,つめる,tsumeru,V-ichi,"to pack, to shorten, to work out"
-積もる,つもる,tsumoru,V-godan,to pile up
-梅雨,つゆ,tsuyu,N,rainy season
-辛い,つらい,tsurai,い-A,"painful, heart-breaking"
-釣,つり,tsuri,N,fishing
-連れ,つれ,tsure,N,"companion, company"
-出,で,de,N,"outflow, coming  out, graduate"
-出会い,であい,deai,Ctr,"meeting, rendezvous, encounter"
-出合い,であい,deai,Ctr,an encounter
-出会う,であう,deau,Ctr,"to meet by chance, to come across"
-提案,ていあん,teian,N,"proposal, proposition, suggestion"
-定期,ていき,teiki,N,fixed term
-抵抗,ていこう,teikou,N,"resistance, opposition"
-提出,ていしゅつ,teishutsu,N,"presentation, submission, filing"
-停電,ていでん,teiden,N,failure of electricity
-程度,ていど,teido,N,"degree, amount, level"
-停留所,ていりゅうじょ,teiryuujo,N,bus or tram stop
-デート,デート,deeto,N(kat),date
-敵,てき,teki,N,"enemy, rival"
-出来事,できごと,dekigoto,N,"incident happening, event"
-適する,てきする,tekisuru,V-suru,"to fit, to suit"
-適切,てきせつ,tekisetsu,な-A,"appropriate, adequate, relevance"
-適度,てきど,tekido,N,moderate
-適用,てきよう,tekiyou,N,applying
-できれば,できれば,dekireba,N,if possible…
-手品,てじな,tejina,N,"conjuring trick, magic"
-ですから,ですから,desukara,Conj,therefore
-鉄,てつ,tetsu,N,iron
-哲学,てつがく,tetsugaku,N,philosophy
-手伝い,てつだい,tetsudai,N,"help, helper, assistant"
-徹底,てってい,tettei,い-A,"thoroughness, completeness"
-鉄道,てつどう,tetsudou,N,"railway, railroad"
-徹夜,てつや,tetsuya,N,staying up all night
-手間,てま,tema,N,"time, labor"
-デモ,デモ,demo,N(kat),"demo, demonstration"
-典型,てんけい,tenkei,N,"type, pattern, archetypal"
-天候,てんこう,tenkou,N,weather
-電子,でんし,denshi,N,"electron, electronic"
-テント,テント,tento,N(kat),tent
-伝統,でんとう,dentou,N,"tradition, convention"
-天然,てんねん,tennen,N,"nature, spontaneity"
-問い,とい,toi,N,"question, query"
-党,とう,tou,N,party
-塔,とう,tou,N,"tower, pagoda"
-答案,とうあん,touan,N,examination paper
-同一,どういつ,douitsu,N,"identity, sameness, similarity"
-銅貨,どうか,douka,N,copper coin
-当時,とうじ,touji,N,"at that time, in those days"
-動詞,どうし,doushi,N,verb
-同時,どうじ,douji,N,"simultaneous, same time"
-どうしても,どうしても,doushitemo,N,"at any cost, no matter what"
-どうぞよろしく,どうぞよろしく,douzoyoroshiku,Expr,pleased to meet you
-到着,とうちゃく,touchaku,N,arrival
-道徳,どうとく,doutoku,N,morals
-投票,とうひょう,touhyou,N,"voting, poll"
-東洋,とうよう,touyou,N,Orient
-同様,どうよう,douyou,N,"identical, same, like"
-童謡,どうよう,douyou,N,"children's song, nursery rhyme"
-同僚,どうりょう,douryou,N,"colleague, co-worker"
-道路,どうろ,douro,N,road
-通す,とおす,toosu,V-godan,"to let pass, to overlook"
-通り過ぎる,とおりすぎる,toorisugiru,V-ichi,"to pass, to pass through"
-都会,とかい,tokai,N,city
-溶く,とく,toku,V-godan,to dissolve
-解く,とく,toku,V-godan,"to unfasten, answer, solve"
-退く,どく,doku,V-godan,"to retreat, to recede, to withdraw"
-毒,どく,doku,N,"poison, toxicant"
-得意,とくい,tokui,N,"pride, triumph, prosperity"
-読書,どくしょ,dokusho,N,reading
-独身,どくしん,dokushin,N,"single, unmarried"
-特徴,とくちょう,tokuchou,N,"characteristic, feature, trait"
-特長,とくちょう,tokuchou,N,"forte, merit"
-独特,どくとく,dokutoku,N,"peculiarity, uniqueness"
-独立,どくりつ,dokuritsu,N,"independence (e.g., Ind. Day)"
-溶ける,とける,tokeru,V-ichi,"to melt, to thaw, to dissolve"
-解ける,とける,tokeru,V-ichi,"to come untied, to come apart"
-どこか,どこか,dokoka,N,"somewhere, anywhere"
-ところが,ところが,tokoroga,Conj,"however, while, even if"
-ところで,ところで,tokorode,N,"by the way, even if"
-登山,とざん,tozan,N,mountain-climbing
-都市,とし,toshi,N,"town, city, urban"
-年月,としつき,toshitsuki,N,months and years
-図書,としょ,tosho,N,books
-年寄,としより,toshiyori,N,"old people, the aged"
-閉じる,とじる,tojiru,V-ichi,"to close (e.g., book, eyes)"
-途端,とたん,totan,Adv,"just (now, at the moment, etc.)"
-土地,とち,tochi,N,"plot of land, lot, soil"
-突然,とつぜん,totsuzen,N,"abruptly, suddenly, unexpectedly"
-トップ,トップ,toppu,N(kat),top
-届く,とどく,todoku,V-godan,to reach
-とにかく,とにかく,tonikaku,N,"anyhow, at any rate, anyway"
-飛ばす,とばす,tobasu,V-godan,"to skip over, to omit"
-飛び出す,とびだす,tobidasu,V-godan,"to jump out, to rush out"
-留める,とめる,tomeru,V-ichi,"to fasten, to turn off, to detain"
-泊める,とめる,tomeru,V-ichi,to have someone stay
-友,とも,tomo,N,"friend, companion, pal"
-共に,ともに,tomoni,N,"sharing with, participate in"
-虎,とら,tora,N,tiger
-ドライブ,ドライブ,doraibu,N(kat),"drive, driving"
-トラック,トラック,torakku,N(kat),"truck, track"
-ドラマ,ドラマ,dorama,N(kat),drama
-トランプ,トランプ,toranpu,N(kat),playing cards
-取り上げる,とりあげる,toriageru,V-ichi,"to take up, to pick up"
-努力,どりょく,doryoku,N,"great effort, exertion, endeavor"
-トレーニング,トレーニング,toreeningu,N(kat),training
-ドレス,ドレス,doresu,N(kat),dress
-取れる,とれる,toreru,V-ichi,"to come off, to be taken off"
-泥,どろ,doro,N,mud
-トン,トン,ton,N(kat),ton
-とんでもない,とんでもない,tondemonai,N,"outrageous, No way!"
-どんなに,どんなに,donnani,N,"how, how much"
-トンネル,トンネル,tonneru,N(kat),tunnel
-名,な,na,N,"name, reputation"
-内容,ないよう,naiyou,N,"subject, contents, detail"
-なお,なお,nao,Adv,"still, yet"
-仲,なか,naka,N,"relation, relationship"
-流す,ながす,nagasu,V-godan,"to drain, to float, to shed (e.g."
-半ば,なかば,nakaba,N,"middle, halfway"
-仲間,なかま,nakama,N,"company, fellow, colleague"
-中身,なかみ,nakami,N,"content, substance"
-中味,なかみ,nakami,N,"contents, interior, filling"
-眺め,ながめ,nagame,N,"scene, view, prospect, outlook"
-眺める,ながめる,nagameru,V-ichi,"to view, to gaze at"
-流れ,ながれ,nagare,N,"stream, current"
-流れる,ながれる,nagareru,V-ichi,"to flow, to be washed away"
-亡くす,なくす,nakusu,V-godan,to lose someone
-殴る,なぐる,naguru,V-godan,"to strike, to hit, to punch"
-無し,なし,nashi,N,without
-なぜなら,なぜなら,nazenara,N,because
-謎,なぞ,nazo,N,"riddle, puzzle, enigma"
-納得,なっとく,nattoku,N,"consent, assent, understanding"
-何か,なにか,nanika,N,something
-なにも,なにも,nanimo,N,nothing
-鍋,なべ,nabe,N,"saucepan, pot"
-生,なま,nama,N,"raw, unprocessed"
-怠ける,なまける,namakeru,V-ichi,"to be idle, to neglect"
-波,なみ,nami,N,wave
-涙,なみだ,namida,N,tear
-悩む,なやむ,nayamu,V-godan,"to agonize, to be troubled"
-鳴らす,ならす,narasu,V-godan,"to ring, to sound"
-為る,なる,naru,V-godan,"to change, to be of use"
-生る,なる,naru,V-godan,to bear fruit
-馴れる,なれる,nareru,V-ichi,to become domesticated
-縄,なわ,nawa,N,rope
-何で,なんで,nande,Pron,"Why, What for"
-何でも,なんでも,nandemo,Adv,"by all means, everything"
-何とか,なんとか,nantoka,N,"somehow, anyhow"
-似合う,にあう,niau,V-godan,"to suit, to match, becomes"
-煮える,にえる,nieru,V-ichi,"to boil, to cook, to be cooked"
-苦手,にがて,nigate,N,"poor, weak, dislike"
-握る,にぎる,nigiru,V-ichi,"to grasp, to seize, to mold sushi"
-日,にち,nichi,N,day
-日常,にちじょう,nichijou,N,"ordinary, regular, everyday"
-日光,にっこう,nikkou,N,sunlight
-日中,にっちゅう,nitchuu,N,"daytime, broad daylight"
-にっこり,にっこり,nikkori,N,"smile sweetly, smile, grin"
-日本,にっぽん,nippon,N,Japan
-日本,にほん,nihon,N,Japan
-入場,にゅうじょう,nyuujou,N,"entrance, admission, entering"
-煮る,にる,niru,V-ichi,"to boil, to cook"
-人気,にんき,ninki,N,popularity
-人間,にんげん,ningen,N,"human being, person"
-抜く,ぬく,nuku,V-godan,"to extract, to omit, to unplug"
-抜ける,ぬける,nukeru,V-ichi,"to come out, to fall out"
-布,ぬの,nuno,N,cloth
-濡らす,ぬらす,nurasu,V-godan,"to wet, to soak"
-根,ね,ne,N,root
-値,ね,ne,N,"value, price, cost"
-願い,ねがい,negai,N,"desire, wish, request"
-願う,ねがう,negau,V-godan,"to desire, to wish, to request"
-鼠,ねずみ,nezumi,N,"mouse, rat"
-熱帯,ねったい,nettai,N,tropics
-熱中,ねっちゅう,netchuu,N,"enthusiasm, zeal, mania"
-年間,ねんかん,nenkan,N,year
-年月,ねんげつ,nengetsu,N,months and years
-年中,ねんじゅう,nenjuu,Pron,"whole year, always, everyday"
-年代,ねんだい,nendai,N,"age, era, period"
-年齢,ねんれい,nenrei,N,"age, years"
-野,の,no,N,field
-能,のう,nou,N,"being skilled in, nicely, properly"
-農家,のうか,nouka,N,"farmer, farm family"
-農業,のうぎょう,nougyou,N,agriculture
-農民,のうみん,noumin,N,"farmers, peasants"
-能力,のうりょく,nouryoku,N,"ability, faculty"
-ノー,ノー,noo,N(kat),no
-軒,のき,noki,N,eaves
-残す,のこす,nokosu,V-godan,"to leave (behind, over), to save"
-残り,のこり,nokori,N,"remaining, left-over"
-乗せる,のせる,noseru,V-ichi,"to place on, to take on board"
-載せる,のせる,noseru,V-ichi,"to place on, to publish"
-覗く,のぞく,nozoku,V-godan,"to peek in, to look in"
-除く,のぞく,nozoku,V-godan,"to remove, to exclude, to except"
-望み,のぞみ,nozomi,N,"wish, desire, hope"
-望む,のぞむ,nozomu,V-godan,"to desire, to wish for, to view"
-後,のち,nochi,N,"afterwards, since then"
-ノック,ノック,nokku,N(kat),"knock, fungo"
-伸ばす,のばす,nobasu,V-godan,"to extend, to stretch"
-延ばす,のばす,nobasu,V-godan,"to extend, to stretch"
-伸びる,のびる,nobiru,V-ichi,"to extend, to make progress"
-延びる,のびる,nobiru,V-ichi,to be prolonged
-述べる,のべる,noberu,V-ichi,"to state, to express, to mention"
-上る,のぼる,noboru,V-godan,"to ascend, to go up, to climb"
-昇る,のぼる,noboru,V-godan,"to arise, to ascend, to go up"
-載る,のる,noru,V-godan,"to appear, to be recorded"
-のんびり,のんびり,nonbiri,N,"carefree, at leisure"
-場,ば,ba,N,"place, field"
-はあ (かん),はあ (かん),haa (kan),N,(sigh)
-パーセント,パーセント,paasento,N(kat),percent
-灰,はい,hai,N,ash
-梅雨,ばいう,baiu,N,rainy season
-バイオリン,バイオリン,baiorin,N(kat),violin
-ハイキング,ハイキング,haikingu,N(kat),hiking
-配達,はいたつ,haitatsu,N,"delivery, distribution"
-パイプ,パイプ,paipu,N(kat),pipe
-俳優,はいゆう,haiyuu,N,"actor, actress, performer"
-パイロット,パイロット,pairotto,N(kat),pilot
-生える,はえる,haeru,V-ichi,"to grow, to spring up, to cut"
-墓,はか,haka,N,"grave, tomb"
-馬鹿,ばか,baka,N,"fool, idiot"
-博士,はかせ,hakase,N,"doctorate, PhD., doctor"
-計る,はかる,hakaru,V-godan,"to measure, to weigh, to survey"
-量る,はかる,hakaru,V-godan,"to measure, to weigh, to survey"
-測る,はかる,hakaru,V-godan,"to measure, to weigh, to survey"
-掃く,はく,haku,V-godan,"to sweep, to brush, to gather up"
-吐く,はく,haku,V-godan,"to throw up, to vomit"
-拍手,はくしゅ,hakushu,N,"clapping hands, applause"
-莫大,ばくだい,bakudai,N,"enormous, vast"
-爆発,ばくはつ,bakuhatsu,N,"explosion, detonation, eruption"
-博物館,はくぶつかん,hakubutsukan,N,museum
-激しい,はげしい,hageshii,N,"violent, vehement, intense"
-はさみ,はさみ,hasami,N,scissors
-破産,はさん,hasan,N,bankruptcy
-端,はし,hashi,N,"end (e.g., of street), edge"
-始まり,はじまり,hajimari,N,"origin, beginning"
-パス,パス,pasu,N(kat),"path, pass"
-外す,はずす,hazusu,V-godan,"to unfasten, to remove"
-パスポート,パスポート,pasupooto,N(kat),passport
-外れる,はずれる,hazureru,V-ichi,to be disconnected
-旗,はた,hata,N,flag
-肌,はだ,hada,N,skin
-裸,はだか,hadaka,N,"naked, nude"
-畑,はたけ,hatake,N,"field, patch"
-働き,はたらき,hataraki,N,"work, labor"
-バッグ,バッグ,baggu,N(kat),bag
-発見,はっけん,hakken,N,"discovery, detection, finding"
-発行,はっこう,hakkou,N,issue
-発車,はっしゃ,hassha,N,departure of a vehicle
-発射,はっしゃ,hassha,N,"firing, shooting, discharge"
-罰する,ばっする,bassuru,V-suru,"to punish, to penalize"
-発達,はったつ,hattatsu,N,"development, growth"
-ばったり,ばったり,battari,V,by chance
-発展,はってん,hatten,N,"development, growth, progress"
-発表,はっぴょう,happyou,N,"announcement, publication"
-発明,はつめい,hatsumei,N,invention
-派手,はで,hade,N,"showy, flashy, gaudy"
-話し合う,はなしあう,hanashiau,V-godan,"to discuss, to talk together"
-離す,はなす,hanasu,V-godan,"to part, to separate"
-放す,はなす,hanasu,V-godan,"to separate, to set free"
-離れる,はなれる,hanareru,N,"(something, someone) separates"
-放れる,はなれる,hanareru,V-ichi,"to leave, to get free"
-羽,はね,hane,N,wing
-羽根,はね,hane,N,feather
-幅,はば,haba,N,"width, breadth"
-母親,ははおや,hahaoya,N,mother
-省く,はぶく,habuku,V-godan,"to omit, to eliminate"
-場面,ばめん,bamen,N,"scene, setting (e.g., of novel)"
-流行る,はやる,hayaru,V-godan,to be popular
-腹,はら,hara,N,"abdomen, belly, stomach"
-原,はら,hara,N,"field, plain"
-バランス,バランス,baransu,N(kat),balance
-針,はり,hari,N,"needle, hand (e.g., clock)"
-範囲,はんい,hani,N,"extent, scope, range"
-反抗,はんこう,hankou,N,"opposition, resistance"
-犯罪,はんざい,hanzai,N,crime
-ハンサム,ハンサム,hansamu,N(kat),handsome
-反省,はんせい,hansei,N,"reflection, reconsideration"
-判断,はんだん,handan,N,"judgment, decision"
-犯人,はんにん,hannin,N,"offender, criminal"
-販売,はんばい,hanbai,N,"sale, selling, marketing"
-灯,ひ,hi,N,light
-ビール,ビール,biiru,N(kat),beer
-被害,ひがい,higai,N,damage
-比較,ひかく,hikaku,N,comparison
-ピクニック,ピクニック,pikunikku,N(kat),picnic
-悲劇,ひげき,higeki,N,tragedy
-飛行,ひこう,hikou,N,"aviation, flight"
-膝,ひざ,hiza,N,"knee, lap"
-非常,ひじょう,hijou,N,"emergency, extraordinary, unusual"
-美人,びじん,bijin,N,beautiful person
-額,ひたい,hitai,N,"forehead, brow"
-日付,ひづけ,hidzuke,N,"date, dating"
-引越し,ひっこし,hikkoshi,N,"moving, changing residence"
-必死,ひっし,hisshi,N,"desperation, frantic"
-ぴったり,ぴったり,pittari,N,"exactly, neatly, sharp"
-引っ張る,ひっぱる,hipparu,V-godan,"to pull, to stretch, to drag"
-否定,ひてい,hitei,N,"negation, denial"
-ビデオ,ビデオ,bideo,N(kat),"video tape, VCR"
-一言,ひとこと,hitokoto,N,one word
-人込み,ひとごみ,hitogomi,N,crowd of people
-等しい,ひとしい,hitoshii,N,equal
-独り,ひとり,hitori,N,"alone, unmarried"
-一人一人,ひとりひとり,hitorihitori,N,"one by one, each"
-批判,ひはん,hihan,N,criticism
-批評,ひひょう,hihyou,N,"criticism, review, commentary"
-秘密,ひみつ,himitsu,N,"secret, secrecy"
-微妙,びみょう,bimyou,N,"delicate, subtle"
-紐,ひも,himo,N,"string, cord"
-冷やす,ひやす,hiyasu,V-godan,"to cool, to refrigerate"
-費用,ひよう,hiyou,N,"cost, expense"
-表,ひょう,hyou,N,"table (e.g., Tab 1), chart, list"
-秒,びょう,byou,N,second
-評価,ひょうか,hyouka,N,"assessment, evaluation"
-表現,ひょうげん,hyougen,Expr,"expression, presentation"
-表情,ひょうじょう,hyoujou,Expr,facial expression
-平等,びょうどう,byoudou,N,"equality, impartiality, evenness"
-評判,ひょうばん,hyouban,N,"fame, reputation"
-表面,ひょうめん,hyoumen,N,"surface, outside, face"
-広がる,ひろがる,hirogaru,V-godan,"to spread, to extend, to stretch"
-広げる,ひろげる,hirogeru,V-ichi,"to spread, to extend, to expand"
-広める,ひろめる,hiromeru,V-ichi,"to broaden, to propagate"
-品,ひん,hin,N,"goods, taste, elegance"
-瓶,びん,bin,N,bottle
-便,びん,bin,N,"way, means, flight"
-ピン,ピン,pin,N(kat),pin
-不,ふ,fu,N,"un, non, negative prefix"
-不,ぶ,bu,N,"un, non, negative prefix"
-無,ぶ,bu,N,"nothing, naught, nil, zero"
-分,ぶ,bu,N,"dividing, part"
-不安,ふあん,fuan,N,"anxiety, uneasiness"
-風景,ふうけい,fuukei,N,scenery
-夫婦,ふうふ,fuufu,N,"married couple, husband and wife"
-笛,ふえ,fue,N,"flute, whistle"
-不可,ふか,fuka,N,"wrong, bad, impossible"
-深まる,ふかまる,fukamaru,V-godan,to deepen
-武器,ぶき,buki,N,"weapon, arms"
-拭く,ふく,fuku,V-godan,"to wipe, to dry"
-服装,ふくそう,fukusou,N,"clothes, attire"
-含む,ふくむ,fukumu,V-godan,"to contain, to include"
-含める,ふくめる,fukumeru,V-ichi,to include
-袋,ふくろ,fukuro,N,"bag, sack"
-不幸,ふこう,fukou,N,"unhappiness, sorrow, misfortune"
-節,ふし,fushi,N,"tune, tone, knob"
-無事,ぶじ,buji,な-A,"safety, peace"
-不思議,ふしぎ,fushigi,N,"mystery, curiosity"
-不自由,ふじゆう,fujiyuu,N,"discomfort, disability"
-夫人,ふじん,fujin,N,"wife, Mrs, madam"
-婦人,ふじん,fujin,N,woman 、女の人 )
-不正,ふせい,fusei,N,"injustice, unfairness"
-防ぐ,ふせぐ,fusegu,V-godan,"to defend, to protect, to prevent"
-不足,ふそく,fusoku,N,"insufficiency, shortage"
-舞台,ぶたい,butai,N,stage
-双子,ふたご,futago,N,"twins, a twin"
-再び,ふたたび,futatabi,Adv,"again, once more, a second time"
-普段,ふだん,fudan,N,"in everyday situations, usually"
-縁,ふち,fuchi,N,"edge, rim"
-打つ,ぶつ,butsu,V-godan,"to hit, to strike"
-不通,ふつう,futsuu,N,"blockade, interruption, stoppage"
-物価,ぶっか,bukka,N,prices
-ぶつかる,ぶつかる,butsukaru,V-godan,"to strike, to collide with"
-ぶつける,ぶつける,butsukeru,V-ichi,"to knock, to strike hard"
-物質,ぶっしつ,busshitsu,N,"material, substance"
-物理,ぶつり,butsuri,N,physics
-筆,ふで,fude,N,writing brush
-ふと,ふと,futo,Adv,"suddenly, accidentally"
-部分,ぶぶん,bubun,N,"portion, section, part"
-不平,ふへい,fuhei,N,"complaint, discontent"
-不満,ふまん,fuman,N,"dissatisfaction, discontent"
-増やす,ふやす,fuyasu,V-godan,"to increase, to add to"
-殖やす,ふやす,fuyasu,V-godan,"to increase, to add to"
-プラス,プラス,purasu,N(kat),plus
-プラスチック,プラスチック,purasuchikku,N(kat),plastic
-プラン,プラン,puran,N(kat),plan
-不利,ふり,furi,N,"disadvantage, drawback"
-振る,ふる,furu,V-godan,"to wave, to shake, to sprinkle"
-震える,ふるえる,furueru,V-ichi,"to shiver, to shake, to quake"
-ブレーキ,ブレーキ,bureeki,N(kat),a brake
-触れる,ふれる,fureru,V-ichi,"to touch, to feel, to violate"
-プロ,プロ,puro,N(kat),professional
-分,ぶん,bun,N,"dividing, part, segment"
-文,ぶん,bun,N,sentence
-雰囲気,ふんいき,funiki,N,"atmosphere (e.g., musical), mood"
-分析,ぶんせき,bunseki,N,analysis
-文明,ぶんめい,bunmei,N,civilization
-分野,ぶんや,bunya,N,"field, sphere"
-塀,へい,hei,N,"wall, fence"
-平均,へいきん,heikin,N,"equilibrium, balance, average"
-平和,へいわ,heiwa,N,peace
-別に,べつに,betsuni,N,"particularly, nothing"
-減らす,へらす,herasu,V-godan,"to decrease, to diminish"
-減る,へる,heru,V-ichi,"to decrease, to diminish"
-ベルト,ベルト,beruto,N(kat),Belt for western clothes
-変化,へんか,henka,N,"change, variation, shift"
-ペンキ,ペンキ,penki,N(kat),paint
-変更,へんこう,henkou,N,"change, modification, alteration"
-ベンチ,ベンチ,benchi,N(kat),bench
-弁当,べんとう,bentou,N,box lunch
-方,ほう,hou,N,side
-法,ほう,hou,N,Act
-棒,ぼう,bou,N,"pole, rod, stick"
-冒険,ぼうけん,bouken,N,"risk, venture, adventure"
-方向,ほうこう,houkou,N,"direction, course, way"
-報告,ほうこく,houkoku,N,"report, information"
-宝石,ほうせき,houseki,N,"gem, jewel"
-包装,ほうそう,housou,N,"packing, wrapping"
-豊富,ほうふ,houfu,N,"abundance, plenty"
-方法,ほうほう,houhou,N,"method, means, technique"
-方々,ほうぼう,houbou,N,"here and there, everywhere"
-訪問,ほうもん,houmon,N,"call, visit"
-吠える,ほえる,hoeru,V-ichi,"to bark, to howl"
-ボーイ,ボーイ,booi,N(kat),"porter, boy"
-ボート,ボート,booto,N(kat),rowing boat
-ホーム,ホーム,hoomu,N(kat),"platform, home"
-ボール,ボール,booru,N(kat),"ball, bowl"
-他,ほか,hoka,N,other
-誇り,ほこり,hokori,N,pride
-埃,ほこり,hokori,N,dust
-保証,ほしょう,hoshou,N,"guarantee, assurance, warranty"
-保存,ほぞん,hozon,N,"preservation, conservation"
-歩道,ほどう,hodou,N,walkway
-仏,ほとけ,hotoke,N,Buddha
-骨,ほね,hone,N,bone
-炎,ほのお,honoo,N,flame
-頬,ほほ,hoho,N,cheek
-頬,ほお,hoo,N,cheek
-ほぼ,ほぼ,hobo,N,"almost, roughly"
-微笑む,ほほえむ,hohoemu,V-godan,to smile
-堀,ほり,hori,N,"moat, canal"
-濠,ほり,hori,N,moat
-本当,ほんと,honto,N,"truth, reality"
-本人,ほんにん,honnin,N,the person himself
-本物,ほんもの,honmono,N,genuine article
-ぼんやり,ぼんやり,bonyari,N,"dim, faint, vague"
-間,ま,ma,N,"space, room, pause"
-まあ,まあ,maa,Adv,well
-マーケット,マーケット,maaketto,N(kat),market
-マイク,マイク,maiku,N(kat),mic
-迷子,まいご,maigo,N,lost  child
-マイナス,マイナス,mainasu,N(kat),minus
-任せる,まかせる,makaseru,V-ichi,"to entrust to another, to leave to"
-巻く,まく,maku,V-godan,"to wind, to coil, to roll"
-蒔く,まく,maku,V-godan,to sow
-撒く,まく,maku,V-godan,"to scatter, to sprinkle, to sow"
-幕,まく,maku,N,"curtain, act"
-負け,まけ,make,N,"defeat, loss"
-孫,まご,mago,N,grandchild
-まさか,まさか,masaka,N,by no means
-まさに,まさに,masani,N,"correctly, surely"
-混ざる,まざる,mazaru,V-godan,"to be mixed, to mingle with"
-交ざる,まざる,mazaru,V-godan,"to be mixed, to mingle with"
-混じる,まじる,majiru,V-ichi,"to be mixed, to mingle with"
-交じる,まじる,majiru,V-ichi,"to be mixed, to mingle with"
-増す,ます,masu,V-godan,"to increase, to gain"
-貧しい,まずしい,mazushii,い-A,"poor, needy"
-マスター,マスター,masutaa,N(kat),"bar owner, master (e.g., arts"
-ますます,ますます,masumasu,N,"increasingly, more and more"
-混ぜる,まぜる,mazeru,V-ichi,"to mix, to stir"
-交ぜる,まぜる,mazeru,V-ichi,"to be mixed, to be blended with"
-街,まち,machi,N,"town, street, road"
-間違い,まちがい,machigai,N,mistake
-松,まつ,matsu,N,pine tree
-真っ赤,まっか,makka,N,"deep red, flushed"
-全く,まったく,mattaku,N,"really, completely"
-祭,まつり,matsuri,N,"festival, feast"
-まとまる,まとまる,matomaru,V-godan,"to be collected, to be settled"
-まとめる,まとめる,matomeru,V-ichi,"to put in order, to collect"
-学ぶ,まなぶ,manabu,V-godan,"to learn, to study"
-真似,まね,mane,N,"mimicry, imitation, behavior"
-招く,まねく,maneku,V-godan,to invite
-まぶしい,まぶしい,mabushii,N,"dazzling, radiant"
-柵,さく,saku,N,"fence, paling"
-裂ける,さける,sakeru,V-ichi,"to split, to tear, to burst"
-裁く,さばく,sabaku,V-godan,to judge
-酸化,さんか,sanka,N,oxidation
-死,し,shi,N,"death, decease"
-資格,しかく,shikaku,N,"qualifications, requirements"
-視覚,しかく,shikaku,N,"sense of sight, vision"
-指揮,しき,shiki,N,"command, direction"
-磁気,じき,jiki,N,magnetism
-磁器,じき,jiki,N,"porcelain, china"
-自己,じこ,jiko,N,"self, oneself"
-字体,じたい,jitai,N,"font, lettering"
-辞退,じたい,jitai,N,refusal
-視点,してん,shiten,N,"opinion, point of view"
-脂肪,しぼう,shibou,N,"fat, grease"
-志望,しぼう,shibou,N,"wish, desire, ambition"
-衆,しゅう,shuu,N,"masses, people"
-住,じゅう,juu,N,"dwelling, living"
-修飾,しゅうしょく,shuushoku,N,"ornamentation, modification"
-私用,しよう,shiyou,N,"personal use, private business"
-仕様,しよう,shiyou,N,"way, method, specification"
-情,じょう,jou,N,"feelings, emotion, passion"
-生涯,しょうがい,shougai,N,one's lifetime
-上司,じょうし,joushi,N,one's superior
-正体,しょうたい,shoutai,N,"natural shape, one's true colors"
-照明,しょうめい,shoumei,N,illumination
-女史,じょし,joshi,N,Ms.
-助詞,じょし,joshi,N,"particle, postposition"
-ショック,ショック,shokku,N(kat),shock
-進行,しんこう,shinkou,N,advance
-新興,しんこう,shinkou,N,"rising, developing, emergent"
-振興,しんこう,shinkou,N,"promotion, encouragement"
-申告,しんこく,shinkoku,N,"report, statement"
-真理,しんり,shinri,N,truth
-水洗,すいせん,suisen,N,flushing
-ストレス,ストレス,sutoresu,N(kat),stress
-擦る,する,suru,V-suru,"to rub, to chafe"
-正規,せいき,seiki,N,"regular, legitimate"
-精巧,せいこう,seikou,N,"elaborate, delicate, exquisite"
-精算,せいさん,seisan,N,"exact calculation, adjustment"
-成年,せいねん,seinen,N,"majority, adult age"
-声明,せいめい,seimei,N,"declaration, statement"
-姓名,せいめい,seimei,N,full name
-生理,せいり,seiri,N,"physiology, menses"
-節,せつ,setsu,Pron,"when, if, section, clause"
-膳,ぜん,zen,N,"table, tray, meal"
-禅,ぜん,zen,N,Zen
-選挙,せんきょ,senkyo,N,election
-先行,せんこう,senkou,N,"preceding, going first"
-選考,せんこう,senkou,N,"selection, screening"
-相,そう,sou,N,"aspect, phase, countenance"
-沿う,そう,sou,V-godan,"to run along, to follow"
-添う,そう,sou,V-godan,"to accompany, to comply with"
-僧,そう,sou,N,"monk, priest"
-像,ぞう,zou,N,"statue, image"
-捜査,そうさ,sousa,N,search (esp. in criminal investigations
-操縦,そうじゅう,soujuu,N,"management, control, manipulation"
-創造,そうぞう,souzou,N,creation
-隊,たい,tai,N,"party, troops"
-退学,たいがく,taigaku,N,dropping out of school
-タイトル,タイトル,taitoru,N(kat),title
-ダウン,ダウン,daun,N(kat),down
-高まる,たかまる,takamaru,V-godan,"to rise, to grow, to mount"
-断つ,たつ,tatsu,V-godan,"to sever, to cut off"
-盾,たて,tate,N,shield
-例え,たとえ,tatoe,N,"example, even though"
-チャイム,チャイム,chaimu,N(kat),chime
-挑戦,ちょうせん,chousen,N,"challenge, defiance"
-治療,ちりょう,chiryou,N,medical treatment
-対,つい,tsui,N,"pair, couple, set"
-接ぐ,つぐ,tsugu,V-godan,"to join, to piece together, to set"
-継ぐ,つぐ,tsugu,V-godan,to succeed (someone in a business or inheritance
-摘む,つむ,tsumu,V-godan,"to pluck, to pick, to trim"
-露,つゆ,tsuyu,N,dew
-強まる,つよまる,tsuyomaru,V-godan,"to get strong, to gain strength"
-強める,つよめる,tsuyomeru,V-ichi,"to strengthen, to emphasize"
-データ,データ,deeta,N(kat),data
-デザイン,デザイン,dezain,N(kat),design
-デザート,デザート,dezaato,N(kat),dessert
-転校,てんこう,tenkou,N,change schools
-伝言,でんごん,dengon,N,verbal message
-と,と,to,Conj,and
-問う,とう,tou,V-godan,"to ask, to question"
-棟,とう,tou,N,ridge (of roof
-倒産,とうさん,tousan,N,"bankruptcy, insolvency"
-同士,どうし,doushi,N,"one another, companion, comrade"
-同志,どうし,doushi,N,"same mind, comrade, kindred soul"
-当然,とうぜん,touzen,N,"obvious, natural"
-動揺,どうよう,douyou,N,"disturbance, flutter shock"
-説く,とく,toku,V-godan,"to explain, to advocate"
-綴じる,とじる,tojiru,V-ichi,"to bind, to file"
-供,とも,tomo,N,"accompanying, attendant, companion"
-並,なみ,nami,N,"medium (e.g., food serving size"
-慣らす,ならす,narasu,V-godan,to accustom
-馴らす,ならす,narasu,V-godan,"to domesticate, to tame"
-難,なん,,N,"difficulty, hardships, defect"
-音,ね,ne,N,"sound, note"
-年鑑,ねんかん,nenkan,N,yearbook
-脳,のう,nou,N,"brain, memory"
-臨む,のぞむ,nozomu,V-godan,"to look out on, to face, to attend"
-肺,はい,hai,N,lung
-～敗,はい,hai,Ctr,"counter for loss, defeat"
-映える,はえる,haeru,V-ichi,"to shine, to look attractive"
-諮る,はかる,hakaru,V-godan,"to consult with, to confer"
-図る,はかる,hakaru,V-godan,"to plot, to attempt, to devise"
-生やす,はやす,hayasu,V-godan,"to grow, to cultivate"
-班,はん,han,N,"group, party, section"
-判,はん,han,N,size
-版,はん,han,N,edition
-碑,ひ,hi,N,stone monument bearing an inscription
-非行,ひこう,hikou,N,"delinquency, misconduct"
-票,ひょう,hyou,N,"label, ballot, sign"
-広まる,ひろまる,hiromaru,V-godan,"to spread, to be propagated"
-深める,ふかめる,fukameru,V-ichi,"to deepen, to heighten"
-福,ふく,fuku,N,good fortune
-振り,ふり,furi,N,"style, manner"
-経る,へる,heru,V-ichi,"to pass, to elapse, to experience"
-保護,ほご,hogo,N,"care, protection, shelter"
-保障,ほしょう,hoshou,N,"guarantee, security, warranty"
-補償,ほしょう,hoshou,N,"compensation, reparation"
-ほっと,ほっと,hotto,N,feel relieved
-前もって,まえもって,maemotte,N,"in advance, beforehand, previously"
-膜,まく,maku,N,"membrane, film"
-マスコミ,マスコミ,masukomi,N(kat),mass communication
-股,また,mata,N,"thigh, crotch"
-末,まつ,matsu,N,the end of
-マッサージ,マッサージ,massaaji,N(kat),massage
-見掛ける,みかける,mikakeru,V-ichi,"to, to notice, to catch sight of"
-捲る,めくる,mekuru,V-godan,to turn over
-メッセージ,メッセージ,messeeji,N(kat),message
-野党,やとう,yatou,N,opposition party
-優,ゆう,yuu,N,"superiority, high grade"
-有機,ゆうき,yuuki,N,organic
-世,よ,yo,N,"world, society, generation"
-良い,よい,yoi,い-A,"good, nice"
-予想,よそう,yosou,N,"expectation, anticipation"
-弱まる,よわまる,yowamaru,V-godan,"to weaken, to be emaciated"
-弱める,よわめる,yowameru,V-ichi,to weaken
-ラベル,ラベル,raberu,N(kat),label
-ルール,ルール,ruuru,N(kat),rule
-枠,わく,waku,N,"frame, slide"
-表示,ひょうじ,hyouji,N,"display, indication"
+踏む,ふむ,fumu,V-godan,"to step on, to tread on"
+～区,～く,～ku,Suf,"~ district, ~ ward, ~ borough"
+すっと,すっと,sutto,Adv,"straight, quickly"
+盗む,ぬすむ,nusumu,V-godan,"to steal, to rob"
+大抵,たいてい,taitei,Adv,"generally, usually"
+とうとう,とうとう,toutou,Adv,"finally, at last"
+ガソリン,ガソリン,gasorin,N(kat),"gasoline, petrol"
+鳴る,なる,naru,V-godan,"to sound, to ring"
+しっかり,しっかり,shikkari,Adv,"firmly, steady"
+生きる,いきる,ikiru,V-ichi,to live
+苦い,にがい,nigai,い-A,bitter
+沸く,わく,waku,V-godan,"to boil, to grow hot"
+意見,いけん,iken,N,"opinion, view, idea"
+やはり; やっぱり,やはり; やっぱり,yahari; yappari,N,"as I thought, absolutely"
+漫画,まんが,manga,N,"comic, cartoon"
+ステレオ,ステレオ,sutereo,N(kat),stereo
+医学,いがく,igaku,N,medical science
+テキスト,テキスト,tekisuto,N(kat),"text, text book"
+～月,～つき,～tsuki,Suf,month
+折る,おる,oru,V-godan,"to snap, to break, to bend"
+～会,～かい,～kai,Suf,~ meeting
+うかがう,うかがう,ukagau,V-godan,to ask
+聞こえる,きこえる,kikoeru,V-ichi,"to be heard, to be audible"
+僕,ぼく,boku,Pron,I
+必ず,かならず,kanarazu,N,"surely, certainly"
+壊す,こわす,kowasu,V-godan,"to break, to break down"
+怒る,おこる,okoru,V-godan,"to get angry, to scold angrily"
+床屋,とこや,tokoya,N,barber's
+オートバイ,オートバイ,ootobai,N(kat),motorcycle )
+運動,うんどうする,undousuru,N,exercise
+止む,やむ,yamu,V-godan,"to cease, to stop"
+もし,もし,moshi,N,if
+表,おもて,omote,N,"surface, front, outside"
+大学生,だいがくせい,daigakusei,N,college student
+運転手,うんてんしゅ,untenshu,N,driver
+予習,よしゅう,yoshuu,N,preparation of lessons
+心配,しんぱいする,shinpaisuru,N,"worry, concern"
+別,べつ,betsu,N,"distinction, different"
+非常に,ひじょうに,hijouni,N,"extremely, very"
+お宅,おたく,otaku,N,house
+柔らかい,やわらかい,yawarakai,N,"soft, tender"
+拾う,ひろう,hirou,V-godan,"to pick up, to find"
+～ございます,～ございます,～gozaimasu,Suf,"to be, to exist"
+気,き,ki,N,"spirit, mood"
+比べる,くらべる,kuraberu,V-ichi,to compare
+ほとんど,ほとんど,hotondo,N,"mostly, almost"
+つもり,つもり,tsumori,N,"intention, plan"
+郊外,こうがい,kougai,N,"suburb, outskirts"
+だめ,だめ,dame,N,"useless, no good, hopeless"
+売り場,うりば,uriba,N,place where things are sold
+正月,しょうがつ,shougatsu,N,"New Year, New Year's Day"
+規則,きそく,kisoku,N,"rule, regulation"
+うん,うん,un,Expr,"yes, all right"
+発音,はつおん,hatsuon,N,pronunciation
+焼く,やく,yaku,V-godan,"to bake, to grill"
+屋上,おくじょう,okujou,N,rooftop
+失礼,しつれい,shitsurei,N,"discourtesy, impoliteness"
+ごみ,ごみ,gomi,N,"trash, garbage"
+アフリカ,アフリカ,afurika,N(kat),Africa
+点,てん,ten,N,"mark, score, grade, point, dot"
+一生懸命,いっしょうけんめい,isshoukenmei,Adv,"very hard, with utmost effort"
+今度,こんど,kondo,N,"now, this time, near future"
+機会,きかい,kikai,N,"chance, opportunity"
+建てる,たてる,tateru,V-ichi,to build
+複雑,ふくざつ,fukuzatsu,な-A,"complexity, complication"
+彼,かれ,kare,Pron,"he, boyfriend"
+いらっしゃる,いらっしゃる,irassharu,Expr,"-- honorific expression for いく, くる"
+布団,ふとん,futon,N,futon
+大事,だいじ,daiji,な-A,"important, valuable"
+贈り物,おくりもの,okurimono,N,"a gift, a present"
+泥棒,どろぼう,dorobou,N,"thief, burglar"
+～製,～せい,～sei,Suf,made in ~
+注意,ちゅうい,chuui,N,"caution, attention"
+台風,たいふう,taifuu,N,typhoon
+日,ひ,hi,N,"sun, sunshine, day"
+～軒,～けん,～ken,Ctr,counter for houses
+そう,そう,sou,N,"really, so, yes, right"
+通る,とおる,tooru,V-godan,"to pass, to go through"
+過ぎる,すぎる,sugiru,V-ichi,"to exceed, to go beyond"
+葉,は,ha,N,leaf
+必要,ひつよう,hitsuyou,な-A,necessary
+課長,かちょう,kachou,N,section manager
+地震,じしん,jishin,N,earthquake
+すると,すると,suruto,N,"and, then"
+止める,やめる,yameru,V-ichi,"to end, to stop"
+ガラス,ガラス,garasu,N(kat),"glass, pane"
+～学部,～がくぶ,～gakubu,Suf,department of a university
+厳しい,きびしい,kibishii,い-A,"hard, rigorous, strict"
+人口,じんこう,jinkou,N,population
+月,つき,tsuki,N,moon
+絹,きぬ,kinu,N,silk
+ちっとも,ちっとも,chittomo,N,not at all
+深い,ふかい,fukai,い-A,"deep, profound"
+壊れる,こわれる,kowareru,V-ichi,"to be broken, to break"
+揺れる,ゆれる,yureru,V-ichi,"to shake, to sway"
+落る,おちる,ochiru,V-ichi,"to fall, to drop"
+できるだけ,できるだけ,dekirudake,N,if at all possible
+悲しい,かなしい,kanashii,い-A,"sad, sorrowful"
+中学校,ちゅうがっこう,chuugakkou,N,junior high school pupil
+ガス,ガス,gasu,N(kat),gas
+祈る,いのる,inoru,V-godan,"to pray, to wish"
+盛ん,さかん,sakan,N,"prosperous, active, thriving"
+アルバイト,アルバイト,arubaito,N(kat),part-time job
+起こす,おこす,okosu,V-godan,to wake  up
+致す,いたす,itasu,Expr,-- extra-modest expression for する --
+噛む,かむ,kamu,V-godan,"to bite, to chew"
+赤ちゃん,あかちゃん,akachan,N,"baby, infant"
+浅い,あさい,asai,い-A,"shallow, superficial"
+嘘,うそ,uso,N,lie
+小説,しょうせつ,shousetsu,N,novel
+親,おや,oya,N,a parent
+それに,それに,soreni,N,"moreover, besides"
+西洋,せいよう,seiyou,N,"the West, Western countries"
+思う,おもう,omou,V-godan,"to think, to feel"
+パート (タイム),パート (タイム),paato (taimu),N,part time
+時代,じだい,jidai,N,"age, period, epoch, era"
+申し上げる,もうしあげる,moushiageru,N,"to say, to tell"
+～式,～しき,～shiki,Suf,"~ ceremony, ~ style"
+出席,しゅっせきする,shussekisuru,N,attendance
+～家,～か,～ka,Suf,person who is specialized in ~
+迎える,むかえる,mukaeru,V-ichi,"to welcome, to meet, to greet"
+触る,さわる,sawaru,V-godan,"to touch, to feel"
+建て,～だて,～date,Suf,"~ storied, separate housing"
+社長,しゃちょう,shachou,N,president of a company
+動物園,どうぶつえん,doubutsuen,N,zoo
+捕まえる,つかまえる,tsukamaeru,V-ichi,"to catch, to arrest"
+季節,きせつ,kisetsu,N,season
+寄る,よる,yoru,V-godan,to stop by
+決まる,きまる,kimaru,V-godan,"to be set, fixed"
+開く,ひらく,hiraku,V-godan,"to open, to hold"
+逃げる,にげる,nigeru,V-ichi,"to escape, to run away"
+だから,だから,dakara,N,"so, therefore"
+残念,ざんねん,zannen,N,"regret, regrettable"
+畳,たたみ,tatami,N,tatami mat
+丁寧,ていねい,teinei,な-A,"polite, courteous, careful"
+地理,ちり,chiri,N,geography
+さっき,さっき,sakki,Adv,a little while ago
+怖い,こわい,kowai,N,"scary, frightening"
+包む,つつむ,tsutsumu,V-godan,"to wrap, to cover"
+なるべく,なるべく,narubeku,N,"if possible, as much as possible"
+無理,むり,muri,N,"unreasonable, impossible"
+サンドイッチ,サンドイッチ,sandoitchi,N(kat),sandwich
+会議室,かいぎしつ,kaigishitsu,N,conference room
+品物,しなもの,shinamono,N,goods
+人形,にんぎょう,ningyou,N,"doll, figure"
+利用,りよう,riyou,N,"use, utilization"
+飾る,かざる,kazaru,V-godan,"to decorate, to adorn"
+止める,とめる,tomeru,V-ichi,to stop
+恥ずかしい,はずかしい,hazukashii,N,"ashamed, embarrassed"
+いくら～ても,いくら～ても,ikura～temo,Conj,however much one may ~
+用事,ようじ,youji,N,"business to take care of, tasks"
+ビル,ビル,biru,N(kat),building
+けんかする,けんかする,kenkasuru,N,quarrel
+頑張る,がんばる,ganbaru,V-godan,"to try one's best, to try hard"
+投げる,なげる,nageru,V-ichi,"to pitch, to cast away"
+故障,こしょうする,koshousuru,N,breakdown
+力,ちから,chikara,N,"strength, power"
+受ける,うける,ukeru,V-ichi,"to take (an examination, interview"
+気分,きぶん,kibun,N,"feeling, mood"
+間違える,まちがえる,machigaeru,V-ichi,to make a mistake
+そんな,そんな,sonna,N,"such, like that, that sort of"
+星,ほし,hoshi,N,star
+場合,ばあい,baai,N,"case, situation"
+やっと,やっと,yatto,Adv,"at last, finally"
+足りる,たりる,tariru,V-ichi,"to be sufficient, to be enough"
+行う,おこなう,okonau,V-godan,"to carry out, to conduct"
+ぶどう,ぶどう,budou,N,grapes
+無くなる,なくなる,nakunaru,V-godan,"to disappear, to get lost"
+準備,じゅんびする,junbisuru,N,prepare
+世界,せかい,sekai,N,world
+住所,じゅうしょ,juusho,N,"address, place of residence"
+再来月,さらいげつ,saraigetsu,N,the month after next
+林,はやし,hayashi,N,"woods, forest"
+倍,ばい,bai,N,double
+痩せる,やせる,yaseru,V-ichi,to lose weight
+線,せん,sen,N,"line, wire"
+戦争,せんそう,sensou,N,war
+決める,きめる,kimeru,V-ichi,to decide
+調べる,しらべる,shiraberu,V-ichi,"to check, to look up, to inquire"
+寝坊,ねぼう,nebou,N,sleeping in late
+パパ,パパ,papa,N(kat),"papa, daddy"
+光る,ひかる,hikaru,V-godan,"to shine, to glitter"
+夫,おっと,otto,N,husband
+雲,くも,kumo,N,cloud
+坂,さか,saka,N,"slope, hill"
+～(て) しまう,～(て) しまう,～(te) shimau,Suf,to end up ~
+飛行場,ひこうじょう,hikoujou,N,airport
+柔道,じゅうどう,juudou,N,judo
+決して,けっして,kesshite,Adv,never
+事務所,じむしょ,jimusho,N,office
+連絡,れんらく,renraku,N,"communication, contact, connection"
+小学校,しょうがっこう,shougakkou,N,elementary school
+客,きゃく,kyaku,N,"guest, customer"
+昔,むかし,mukashi,N,"old days, past"
+美しい,うつくしい,utsukushii,N,"beautiful, lovely"
+捨てる,すてる,suteru,N,"throw away, dump, discard"
+なさる,なさる,nasaru,Expr,-- honorific expression for する --
+事,こと,koto,N,"thing, matter, fact"
+どんどん,どんどん,dondon,N,quickly and steadily
+試合,しあい,shiai,N,"match, game, competition"
+適当,てきとう,tekitou,N,"fitness, suitability"
+素晴らしい,すばらしい,subarashii,N,"wonderful, terrific"
+美術館,びじゅつかん,bijutsukan,N,"art gallery, art museum"
+文法,ぶんぽう,bunpou,N,grammar
+終わり,おわり,owari,N,end
+壁,かべ,kabe,N,wall
+一度,いちど,ichido,N,"once, one time"
+お礼,おれい,orei,Expr,"expression of gratitude, thanking"
+親切,しんせつ,shinsetsu,な-A,kindness
+知らせる,しらせる,shiraseru,V-ichi,to notify
+歯医者,はいしゃ,haisha,N,dentist
+熱心,ねっしん,nesshin,N,enthusiasm
+始める,はじめる,hajimeru,V-ichi,"to start, to begin"
+もらう,もらう,morau,V-godan,to receive
+泣く,なく,naku,V-godan,to cry
+治る,なおる,naoru,V-godan,to get better
+熱,ねつ,netsu,N,"fever, temperature"
+お祭り,おまつり,omatsuri,N,festival
+水道,すいどう,suidou,N,"water service, water line"
+匂い,におい,nioi,N,"odor, smell"
+ベル,ベル,beru,N(kat),bell
+赤ん坊,あかんぼう,akanbou,N,baby
+おかしい,おかしい,okashii,い-A,"strange, odd, funny"
+事故,じこ,jiko,N,accident
+変,へん,hen,な-A,"strange, odd"
+辞典,じてん,jiten,N,"encyclopedia, reference book"
+残る,のこる,nokoru,V-godan,"to remain, to be left"
+立てる,たてる,tateru,V-ichi,"to stand  up, to erect"
+くれる,くれる,kureru,V-ichi,"to give, to do for"
+～員,～いん,～in,Suf,member of ~
+原因,げんいん,genin,N,"cause, origin, source"
+驚く,おどろく,odoroku,V-godan,"to be surprised, to be astonished"
+いただく,頂く,頂ku,Expr,-- extra-modest expression for たべる and のむ
+祖母,そぼ,sobo,N,grandmother
+場所,ばしょ,basho,N,"place, location"
+答,こたえ,kotae,N,"answer, response"
+もちろん,もちろん,mochiron,Adv,"certainly, of course"
+漬ける,つける,tsukeru,V-ichi,"to soak, to moisten, to pickle"
+受付,うけつけ,uketsuke,N,reception desk
+内,うち,uchi,N,"within, inside"
+スクリーン,スクリーン,sukuriin,N(kat),screen
+増える,ふえる,fueru,V-ichi,"to increase, to multiply"
+または,または,mataha,N,"or, otherwise"
+けがする,けがする,kegasuru,N,"injury, hurt"
+以下,いか,ika,N,"less than, below"
+選ぶ,えらぶ,erabu,V-godan,"to choose, to select"
+～ばかり,～ばかり,～bakari,Suf,"just did ~, only"
+心,こころ,kokoro,N,"heart, mind"
+～だす,～だす,～dasu,Suf,to start doing ~
+サラダ,サラダ,sarada,N(kat),salad
+届ける,とどける,todokeru,V-ichi,to deliver
+挨拶,あいさつする,aisatsusuru,N,greet
+景色,けしき,keshiki,N,"scenery, landscape"
+確か,たしか,tashika,N,"if I remember correctly, certain"
+ステーキ,ステーキ,suteeki,N(kat),steak
+食料品,しょくりょうひん,shokuryouhin,N,"foodstuff, groceries"
+森,もり,mori,N,forest
+以内,いない,inai,い-A,"within, less  than"
+予定,よてい,yotei,N,"plans, arrangement, schedule"
+オーバー,オーバー,oobaa,N(kat),"overcoat, over, exceeding"
+乾く,かわく,kawaku,V-godan,to get dry
+石,いし,ishi,N,stone
+思い出す,おもいだす,omoidasu,V-godan,"to recall, to remember"
+踊る,おどる,odoru,V-godan,to dance
+細かい,こまかい,komakai,い-A,"small, fine, minute"
+塗る,ぬる,nuru,V-godan,"to paint, to plaster"
+ご主人,ごしゅじん,goshujin,N,"(your, her) husband"
+珍しい,めずらしい,mezurashii,N,"unusual, rare"
+用,よう,you,N,"errand, task, business"
+公務員,こうむいん,koumuin,N,"government worker, public servant"
+お嬢さん,おじょうさん,ojousan,N,daughter
+用意,ようい,youi,N,preparation
+探す,さがす,sagasu,V-godan,"to search, to seek, to look for"
+形,かたち,katachi,N,shape
+運転,うんてんする,untensuru,N,driving
+すっかり,すっかり,sukkari,Adv,"all, completely"
+アナウンサー,アナウンサー,anaunsaa,N(kat),announcer
+お土産,おみやげ,omiyage,N,souvenir
+消しゴム,けしゴム,keshigomu,N,eraser
+旅館,りょかん,ryokan,N,a Japanese inn
+海岸,かいがん,kaigan,N,"coast, seashore"
+寂しい,さびしい,sabishii,い-A,"lonely, lonesome"
+火,ひ,hi,N,fire
+育てる,そだてる,sodateru,V-ichi,"to raise, to bring up"
+味噌,みそ,miso,N,"miso, bean paste"
+お祝い,おいわい,oiwai,N,"congratulation, celebration"
+乗り物,のりもの,norimono,N,vehicle
+案内,あんないする,annaisuru,N,"information, guidance"
+通う,かよう,kayou,V-godan,"to go back and forth, to commute"
+連れる,つれる,tsureru,V-ichi,"to lead, to take"
+技術,ぎじゅつ,gijutsu,N,"technique, technology, skill"
+小鳥,ことり,kotori,N,small bird
+下宿,げしゅく,geshuku,N,"lodging, boarding house"
+ジャム,ジャム,jamu,N(kat),jam
+招待,しょうたいする,shoutaisuru,N,invitation
+鏡,かがみ,kagami,N,mirror
+はず,はず,hazu,N,it should be so
+法律,ほうりつ,houritsu,N,law
+進む,すすむ,susumu,V-godan,"to advance, to proceed"
+楽む,たのしむ,tanoshimu,V-godan,to enjoy
+貿易,ぼうえき,boueki,N,trade
+反対,はんたい,hantai,N,"oppose, opposition, resistance"
+おる,おる,oru,Expr,extra-modest expression for いる
+申す,もうす,mousu,Expr,extra-modest (humble) expression for 言う (いう) 
+試験,しけん,shiken,N,an exam
+真面目,まじめ,majime,N,"diligent, serious"
+ごらんになる,,,Expr,-- honorific expression for みる --
+店員,てんいん,tenin,N,"clerk, shop-employee"
+泊まる,とまる,tomaru,V-godan,to stay
+よろしい,よろしい,yoroshii,い-A,"good, OK, all right"
+今夜,こんや,konya,N,"this evening, tonight"
+おつり,おつり,otsuri,N,change
+チェックする,チェックする,chekkusuru,N,check
+会話,かいわ,kaiwa,N,conversation
+空気,くうき,kuuki,N,"air, atmosphere"
+交通,こうつう,koutsuu,N,"traffic, transportation"
+ワープロ,ワープロ,waapuro,N(kat),word processor
+喜ぶ,よろこぶ,yorokobu,V-godan,"to rejoice, to be delighted"
+急行,きゅうこう,kyuukou,N,express train or bus
+皆,みな,mina,Pron,everyone
+味,あじ,aji,N,"flavor, taste"
+空港,くうこう,kuukou,N,airport
+手袋,てぶくろ,tebukuro,N,glove
+校長,こうちょう,kouchou,N,"principal, headmaster"
+ごちそう,ごちそう,gochisou,N,"feast, treating"
+踊り,おどり,odori,N,dance
+興味,きょうみ,kyoumi,N,interest
+引っ越す,ひっこす,hikkosu,V-godan,to move to a new place of residence
+冷房,れいぼう,reibou,N,"cooling, air conditioning"
+都合,つごう,tsugou,N,"circumstances, convenience"
+遠慮,えんりょする,enryosuru,N,"restraint, reserve, hesitate"
+亡くなる,なくなる,nakunaru,V-godan,to pass away
+科学,かがく,kagaku,N,science
+はっきり,はっきり,hakkiri,Adv,"clearly, distinctly"
+差し上げる,さしあげる,sashiageru,Expr,-- humble expression for あげる --
+気持ち,きもち,kimochi,N,"feeling, sensation, mood"
+祖父,そふ,sofu,N,grandfather
+港,みなと,minato,N,"harbor, port"
+予約,よやく,yoyaku,N,reservation
+凄い,すごい,sugoi,い-A,"terrific, great"
+入学,にゅうがくする,nyuugakusuru,N,entry to school or university
+片付ける,かたづける,katadzukeru,V-ichi,"to  tidy up, to put away"
+写す,うつす,utsusu,V-godan,"to copy, to photograph"
+パソコン,パソコン,pasokon,N(kat),computer
+部長,ぶちょう,buchou,N,department  manager
+火事,かじ,kaji,N,fire
+足す,たす,tasu,V-godan,to add
+教会,きょうかい,kyoukai,N,church
+彼ら,かれら,karera,Pron,they
+一杯,いっぱい,ippai,N,"full, to the utmost"
+アメリカ,アメリカ,amerika,N(kat),"America, U.S.A."
+男性,だんせい,dansei,N,"man, male"
+理由,りゆう,riyuu,N,reason
+生産,せいさんする,seisansuru,N,"production, to produce"
+着物,きもの,kimono,N,"kimono, Japanese traditional dress"
+おもちゃ,おもちゃ,omocha,N,a toy
+暮れる,くれる,kureru,V-ichi,"to get dark, to come to an end"
+釣る,つる,tsuru,V-godan,to fish
+～ちゃん,～ちゃん,～chan,Suf,suffix for familiar  person
+打つ,うつ,utsu,V-godan,"to hit, to strike"
+あんな,あんな,anna,N,"such, like that"
+謝る,あやまる,ayamaru,V-godan,to apologize
+昼間,ひるま,hiruma,N,"daytime, during the day"
+教育,きょういく,kyouiku,N,education
+女性,じょせい,josei,N,woman
+米,こめ,kome,N,uncooked rice
+邪魔,じゃま,jama,N,"hindrance, intrusion"
+国際,こくさい,kokusai,N,international
+隅,すみ,sumi,N,corner
+伺う,うかがう,ukagau,N,"humble form of 行く, 聞く  and 来る"
+再来週,さらいしゅう,saraishuu,N,the week after next
+夢,ゆめ,yume,N,a dream
+喉,のど,nodo,N,throat
+最近,さいきん,saikin,N,"recently, nowadays"
+周り,まわり,mawari,N,surroundings
+歴史,れきし,rekishi,N,history
+不便,ふべん,fuben,N,inconvenience
+血,ち,chi,N,blood
+～続ける,～つづける,～tsudzukeru,Suf,to continue doing ~
+毛,け,ke,N,"hair, fur"
+ひどい,ひどい,hidoi,い-A,"terrible, awful, unfair, cruel"
+例えば,たとえば,tatoeba,N,"for example, e.g."
+中々,なかなか,nakanaka,Adv,"very, considerably, quite"
+随分,ずいぶん,zuibun,N,extremely
+～やすい,～やすい,～yasui,Suf,easy to do ~
+押し入れ,おしいれ,oshiire,N,closet
+電灯,でんとう,dentou,N,electric light
+叱る,しかる,shikaru,V-godan,to scold
+サンダル,サンダル,sandaru,N(kat),sandal
+びっくりする,びっくりする,bikkurisuru,V-suru,to be surprised
+うまい,うまい,umai,い-A,"delicious, skillful, fortunate"
+変える,かえる,kaeru,V-ichi,"to change, to alter, to vary"
+講堂,こうどう,koudou,N,auditorium
+子,こ,ko,N,child
+沸かす,わかす,wakasu,V-godan,to boil
+レジ,レジ,reji,N(kat),register
+しばらく,しばらく,shibaraku,N,little while
+特に,とくに,tokuni,Adv,particularly
+空く,あく,aku,V-godan,"to open, to become empty"
+計画,けいかくする,keikakusuru,N,"plan, project, schedule"
+通り,とおり,toori,N,"~ Street, ~ Avenue"
+下着,したぎ,shitagi,N,underwear
+経済,けいざい,keizai,N,"economics, finance, economy"
+こう,こう,kou,N,"like this, this way"
+是非,ぜひ,zehi,Adv,"certainly, by all means"
+裏,うら,ura,N,"reverse side, back"
+為,ため,tame,N,"good, advantage, in order to"
+おいでになる,おいでになる,oideninaru,N,to be
+変わる,かわる,kawaru,V-godan,"to change, to be transformed"
+以外,いがい,igai,N,"other than, with the exception of"
+済む,すむ,sumu,V-godan,"to finish, to end"
+ハンバーグ,ハンバーグ,hanbaagu,N(kat),hamburger steak
+市,し,shi,N,city
+引き出し,ひきだし,hikidashi,N,drawer
+遊び,あそび,asobi,N,play
+支度,したくする,shitakusuru,N,preparation
+～始める,～はじめる,～hajimeru,Suf,to start doing ~
+見える,みえる,mieru,V-ichi,to be visible
+十分,じゅうぶん,juubun,N,enough
+音,おと,oto,N,"sound, note"
+きっと,きっと,kitto,Adv,"surely, definitely, undoubtedly"
+まず,まず,mazu,N,"first, to start with"
+遠く,とおく,tooku,N,"far away, distant"
+大体,だいたい,daitai,Adv,"approximately, in most cases"
+折れる,おれる,oreru,V-ichi,"to break, to be folded, to give in"
+正しい,ただしい,tadashii,N,correct
+輸入,ゆにゅう,yunyuu,N,import
+返事,へんじ,henji,N,"reply, answer"
+都,と,to,N,metropolitan
+産業,さんぎょう,sangyou,N,industry
+伝える,つたえる,tsutaeru,V-ichi,"to convey, to tell, to report"
+お金持ち,かねもち; おかねもち,kanemochi; okanemochi,N,rich person
+説明,せつめい,setsumei,N,explanation
+島,しま,shima,N,island
+道具,どうぐ,dougu,N,tool
+滑る,すべる,suberu,V-ichi,"to slide, to slip"
+それほど,それほど,sorehodo,V,"to that degree, extent"
+以上,いじょう,ijou,N,"more than, this is all"
+～まま,～まま,～mama,Suf,as it is
+特急,とっきゅう,tokkyuu,N,limited express
+プレゼント,プレゼント,purezento,N(kat),"present, gift"
+～(に) よると,～(に) よると,～(ni) yoruto,Suf,according to ~
+妻,つま,tsuma,N,wife
+帰り,かえり,kaeri,N,"return, coming back"
+具合,ぐあい,guai,N,"condition, state, health"
+堅; 硬; 固い,かたい,katai,N,"solid, hard, firm"
+駐車場,ちゅうしゃじょう,chuushajou,N,parking lot
+スーツ,スーツ,suutsu,N(kat),suit
+危険,きけん,kiken,N,"danger, risk, hazard"
+髪,かみ,kami,N,hair
+天気予報,てんきよほう,tenkiyohou,N,weather forecast
+彼女,かのじょ,kanojo,Pron,"girlfriend, she"
+間,あいだ,aida,N,"space, interval"
+卒業,そつぎょう,sotsugyou,N,graduation
+それで,それで,sorede,N,"and, thereupon, because of that"
+枝,えだ,eda,N,"branch, twig"
+専門,せんもん,senmon,N,"major, speciality"
+そろそろ,そろそろ,sorosoro,Adv,"gradually, soon"
+送る,おくる,okuru,V-godan,"to send, to dispatch"
+あげる,あげる,ageru,V-ichi,to give
+騒ぐ,さわぐ,sawagu,V-godan,"to make noise, to clamor"
+尋ねる,たずねる,tazuneru,V-ichi,to inquire
+放送,ほうそうする,housousuru,N,broadcasting
+政治,せいじ,seiji,N,politics
+市民,しみん,shimin,N,citizen
+ファックス,ファックス,fakkusu,N(kat),fax
+負ける,まける,makeru,V-ichi,"to lose, to be defeated"
+指輪,ゆびわ,yubiwa,N,ring
+田舎,いなか,inaka,N,"rural, countryside"
+見つける,みつける,mitsukeru,V-ichi,"to discover, to find"
+高校生,こうこうせい,koukousei,N,high school student
+講義,こうぎ,kougi,N,a lecture
+そんなに,そんなに,sonnani,Adv,"so much, like that"
+昼休み,ひるやすみ,hiruyasumi,N,"lunch break, noon recess"
+忘れ物,わすれもの,wasuremono,N,"lost article, something forgotten"
+下りる,おりる,oriru,V-ichi,"to get down, to go, come down"
+腕,うで,ude,N,arm
+訳,わけ,wake,N,"reason, explanation"
+承知,しょうちする,shouchisuru,N,"consent, acceptance"
+日記,にっき,nikki,N,"diary, journal"
+高校; 高等学校,こうこう;         こうとうがっこう,koukou;       koutougakkou,N,"high school, senior high school"
+似る,にる,niru,V-ichi,"to resemble, to be similar"
+～おわる,～おわる,～owaru,Suf,to finish doing ~
+暖房,だんぼう,danbou,N,heating
+留守,るす,rusu,N,"absence, not at home"
+割合,わりあい,wariai,N,"rate, ratio, percentage"
+寺,てら,tera,N,Buddhist temple
+慣れる,なれる,nareru,V-ichi,to grow accustomed to
+普通,ふつう,futsuu,N,"common, usual"
+手伝う,てつだう,tetsudau,V-godan,to help
+なるほど,なるほど,naruhodo,N,"I see, I now understand"
+くださる,くださる,kudasaru,N,"to give, to confer"
+息子,むすこ,musuko,N,son
+お子さん,おこさん,okosan,N,child
+会場,かいじょう,kaijou,N,"venue, meeting place"
+笑う,わらう,warau,V-godan,"to laugh, to smile"
+運ぶ,はこぶ,hakobu,V-godan,"to transport, to carry"
+文学,ぶんがく,bungaku,N,literature
+光,ひかり,hikari,N,light
+お見舞い,おみまい,omimai,N,calling on someone who is ill
+席,せき,seki,N,a seat
+～様,～さま,～sama,Suf,"Mr., Mrs., Ms."
+ご存じ,ごぞんじ,gozonji,N,"knowing, acquaintance"
+下る,さがる,sagaru,V-godan,"to descend, to drop, to fall"
+字,じ,ji,N,"letter, character"
+アジア,アジア,ajia,N(kat),Asia
+褒める,ほめる,homeru,V-ichi,"to praise, to say nice things"
+空く,すく,suku,V-godan,"to be empty, to be less crowded"
+あ,あ,a,N,Ah
+最も,もっとも,mottomo,N,most
+合う,あう,au,V-godan,"to fit, to match"
+～代,～だい,～dai,Suf,"~ age, period"
+最後,さいご,saigo,N,"last, end"
+値段,ねだん,nedan,N,price
+退院,たいいんする,taiinsuru,N,leaving hospital
+展覧会,てんらんかい,tenrankai,N,exhibition
+久しぶり,ひさしぶり,hisashiburi,N,it has been a long time
+カーテン,カーテン,kaaten,N(kat),curtain
+汽車,きしゃ,kisha,N,train
+遅れる,おくれる,okureru,V-ichi,to  become late
+見つかる,みつかる,mitsukaru,V-godan,"to be found, to be discovered"
+召し上がる,めしあがる,meshiagaru,N,honorific form of 食べる (たべる) and 飲む (のむ) 
+太る,ふとる,futoru,V-godan,to gain weight
+注射,ちゅうしゃ,chuusha,N,injection
+様,よう,you,N,"way, manner, kind"
+～おき,～おき,～oki,Suf,after every ~
+最初,さいしょ,saisho,N,"beginning, first"
+御～,ご～,go～,Pref,honorable ~
+安心,あんしん,anshin,N,"peace of mind, relief"
+直る,なおる,naoru,V-godan,to be fixed
+集める,あつめる,atsumeru,V-ichi,"to collect, to gather, to assemble"
+直す,なおす,naosu,V-godan,"to correct, to fix"
+続く,つづく,tsudzuku,V-godan,to be continued
+先輩,せんぱい,senpai,N,senior members of a group
+約束,やくそく,yakusoku,N,"arrangement, appointment, promise"
+世話,せわする,sewasuru,N,"looking after, to look after"
+近所,きんじょ,kinjo,N,neighborhood
+将来,しょうらい,shourai,N,"future, prospects"
+億,おく,oku,N,hundred million
+数学,すうがく,suugaku,N,mathematics
+文化,ぶんか,bunka,N,culture
+払う,はらう,harau,V-godan,to pay
+習慣,しゅうかん,shuukan,N,custom
+焼ける,やける,yakeru,V-ichi,"to burn, to be roasted"
+君,きみ,kimi,N,you
+冷える,ひえる,hieru,V-ichi,"to grow cold, to cool down"
+点く,つく,tsuku,V-godan,"to be started, to be switched on"
+この間,このあいだ,konoaida,N,"the other day, recently"
+格好,かっこう,kakkou,N,"appearance, manner, shape, form"
+かまう,,,V,"to mind, to care about"
+続ける,つづける,tsudzukeru,V-ichi,"to continue, to keep up"
+落す,おとす,otosu,V-godan,"to drop, to lose"
+明日,あす,asu,N,tomorrow
+出発,しゅっぱつする,shuppatsusuru,N,departure
+拝見,はいけんする,haikensuru,N,"seeing, look at"
+割れる,われる,wareru,V-ichi,to break
+背中,せなか,senaka,N,back
+新聞社,しんぶんしゃ,shinbunsha,N,newspaper company
+いじめる,いじめる,ijimeru,V-ichi,"to bully, to torment"
+回る、回す,まわる、まわす,mawaru、mawasu,V-godan,"to go around, to revolve"
+～君,～くん,～kun,Suf,"Mr.  ~, master ~"
+おっしゃる,おっしゃる,ossharu,Expr,-- honorific expression for いう --
+眠い,ねむい,nemui,い-A,"sleepy, drowsy"
+濡れる,ぬれる,nureru,V-ichi,to get wet
+倒れる,たおれる,taoreru,V-ichi,"to collapse, to break down"
+アクセサリー,アクセサリー,akusesarii,N(kat),accessory
+考える,かんがえる,kangaeru,V-ichi,"to think, to consider"
+向かう,むかう,mukau,V-godan,"to face, to go towards"
+自由,じゆう,jiyuu,N,freedom
+仕方,しかた,shikata,N,way
+首,くび,kubi,N,neck
+程,ほど,hodo,N,"degree, extent"
+代わり,かわり,kawari,N,"substitute, replacement"
+失敗,しっぱい,shippai,N,"failure, mistake"
+工業,こうぎょう,kougyou,N,industry
+移る,うつる,utsuru,V-godan,"to move, to transfer, to shift"
+スーツケース,スーツケース,suutsukeesu,N(kat),suitcase
+ひげ,ひげ,hige,N,beard
+研究室,けんきゅうしつ,kenkyuushitsu,N,"the professor's office, laboratory"
+工場,こうじょう,koujou,N,factory
+紹介,しょうかい,shoukai,N,an introduction
+けれど; けれども,けれど; けれども,keredo; keredomo,Conj,"but, although"
+舟,ふね,fune,N,"ship, boat"
+動く,うごく,ugoku,V-godan,to move
+～(に) ついて,～(に) ついて,～(ni) tsuite,Suf,"about, concerning"
+コンサート,コンサート,konsaato,N(kat),concert
+虫,むし,mushi,N,insect
+優しい,やさしい,yasashii,い-A,"kind, gentle, easy"
+植える,うえる,ueru,V-ichi,to plant
+両方,りょうほう,ryouhou,N,"both sides, both parties"
+汚れる,よごれる,yogoreru,V-ichi,to become dirty
+水泳,すいえい,suiei,N,swimming
+経験,けいけんする,keikensuru,N,experience
+勝つ,かつ,katsu,V-godan,to win
+砂,すな,suna,N,sand
+警察,けいさつ,keisatsu,N,"police, police station"
+取り替える,とりかえる,torikaeru,V-ichi,"to exchange, to replace"
+急ぐ,いそぐ,isogu,V-godan,"to hurry, to be in a hurry"
+簡単,かんたん,kantan,な-A,simple
+参る,まいる,mairu,Expr,humble expression for 行く and 来る
+全然,ぜんぜん,zenzen,N,"not at all, wholly, entirely"
+特別,とくべつ,tokubetsu,な-A,special
+復習,ふくしゅう,fukushuu,N,"review, revision"
+間に合う,まにあう,maniau,V-godan,to be in time for
+役に立つ,やくにたつ,yakunitatsu,V-godan,"to be helpful, to be useful"
+もうすぐ,もうすぐ,mousugu,Adv,"very soon, in a few moments, days"
+真中,まんなか,mannaka,N,"middle, center"
+戻る,もどる,modoru,V-godan,"to return, to come back"
+研究,けんきゅう,kenkyuu,N,"study, research, investigation"
+ケーキ,ケーキ,keeki,N(kat),cake
+草,くさ,kusa,N,grass
+込む,こむ,komu,V-godan,to be crowded
+この頃,このごろ,konogoro,N,"these days, nowadays"
+訪ねる,たずねる,tazuneru,V-ichi,to visit
+下げる,さげる,sageru,V-ichi,"to lower, to hang"
+花見,はなみ,hanami,N,cherry-blossom viewing
+途中,とちゅう,tochuu,N,"on the way, midway"
+入院,にゅういんする,nyuuinsuru,N,hospitalization
+乗り換える,のりかえる,norikaeru,V-ichi,"to transfer, to change (bus, train"
+別れる,わかれる,wakareru,V-ichi,"to part from, to separate"
+～町,～ちょう,～chou,Suf,the town of ~
+安全,あんぜん,anzen,な-A,"safety, security"
+看護婦,かんごふ,kangofu,N,nurse
+見物,けんぶつ,kenbutsu,N,sightseeing
+相談,そうだんする,soudansuru,N,consultation
+テニス,テニス,tenisu,N(kat),tennis
+眠る,ねむる,nemuru,V-godan,to sleep
+上がる,あがる,agaru,V-godan,"to rise, to go up"
+翻訳,ほんやく,honyaku,N,translation
+食事,しょくじする,shokujisuru,N,meal
+お陰,おかげ,okage,N,thanks or owing to
+娘,むすめ,musume,N,daughter
+湯,ゆ,yu,N,hot water
+競争,きょうそう,kyousou,N,"competition, contest"
+会議,かいぎ,kaigi,N,"business meeting, conference"
+湖,みずうみ,mizuumi,N,lake
+集まる,あつまる,atsumaru,V-godan,"to gather, to collect"
+～にくい,～にくい,～nikui,Suf,difficult to do ~
+生活,せいかつする,seikatsusuru,N,"living, life, to live"
+糸,いと,ito,N,thread
+関係,かんけい,kankei,N,"relation, connection"
+ピアノ,ピアノ,piano,N(kat),piano
+～目,～め,～me,Suf,"number ~ sequence, ~nd, ~th"
+番組,ばんぐみ,bangumi,N,broadcast program
+急,きゅう,kyuu,N,"urgent, sudden, steep"
+棚,たな,tana,N,"shelves, rack"
+木綿,もめん,momen,N,cotton
+輸出,ゆしゅつする,yushutsusuru,N,export
+タイプ,タイプ,taipu,N(kat),"type, style"
+すり,すり,suri,N,pickpocket
+嬉しい,うれしい,ureshii,V,"to be happy, to be glad"
+アルコール,アルコール,arukooru,N(kat),alcohol
+ソフト,ソフト,sofuto,N(kat),"soft, soft hat, software"
+神社,じんじゃ,jinja,N,Shinto shrine
+大分,だいぶ,daibu,N,"fairly well, to a large extent"
+楽しみ,たのしみ,tanoshimi,N,"pleasure, joy"
+趣味,しゅみ,shumi,N,"hobby, pastime"
+電報,でんぽう,denpou,N,telegram
+家内,かない,kanai,N,wife
+指,ゆび,yubi,N,finger
+これから,これから,korekara,N,"from now on, after this"
+たまに,たまに,tamani,N,occasionally
+社会,しゃかい,shakai,N,society

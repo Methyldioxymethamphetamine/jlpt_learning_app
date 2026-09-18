@@ -37,10 +37,7 @@ class VocabularyViewModel(application: Application) : AndroidViewModel(applicati
 
     init {
         viewModelScope.launch {
-            val list = repository.allVocabulary.first()
-            if (list.size < 1800) {
-                loadMasterCsvData()
-            }
+            loadMasterCsvData()
         }
     }
 
