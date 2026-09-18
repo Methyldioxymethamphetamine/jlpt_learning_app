@@ -37,10 +37,9 @@ class VocabularyViewModel(application: Application) : AndroidViewModel(applicati
 
     init {
         viewModelScope.launch {
-            repository.allVocabulary.collect { list ->
-                if (list.isEmpty()) {
-                    loadMasterCsvData()
-                }
+            val list = repository.allVocabulary.first()
+            if (list.size < 1800) {
+                loadMasterCsvData()
             }
         }
     }
@@ -58,6 +57,8 @@ class VocabularyViewModel(application: Application) : AndroidViewModel(applicati
     private suspend fun loadMasterCsvData() {
         val app = getApplication<Application>()
         val assetManager = app.assets
+
+        database.vocabularyDao().deleteAllVocabulary()
 
         val levels = listOf("N5" to "N5Vocab.csv", "N4" to "N4Vocab.csv", "N3" to "N3Vocab.csv")
         for ((level, fileName) in levels) {

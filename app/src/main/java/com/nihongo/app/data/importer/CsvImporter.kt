@@ -14,56 +14,31 @@ class CsvImporter(private val context: Context) {
         val lines = reader.readLines()
         reader.close()
 
-        var currentJapanese = ""
-        var currentRomaji = ""
-        var currentType = ""
-        var currentMeaning = ""
-        var currentReading = ""
+        if (lines.isEmpty()) return list
 
-        for (i in 1 until lines.size) {
+        val startIndex = if (lines[0].contains("Kanji", ignoreCase = true) || lines[0].contains("Japanese", ignoreCase = true)) 1 else 0
+
+        for (i in startIndex until lines.size) {
             val line = lines[i]
+            if (line.isBlank()) continue
             val cols = parseCsvLine(line)
             if (cols.isEmpty()) continue
 
-            val col0 = cols.getOrNull(0)?.trim() ?: ""
-            val col1 = cols.getOrNull(1)?.trim() ?: ""
-            val col2 = cols.getOrNull(2)?.trim() ?: ""
-            val col3 = cols.getOrNull(3)?.trim() ?: ""
-            val col4 = cols.getOrNull(4)?.trim() ?: ""
+            val kanji = cols.getOrNull(0)?.trim() ?: ""
+            val kana = cols.getOrNull(1)?.trim() ?: ""
+            val romaji = cols.getOrNull(2)?.trim() ?: ""
+            val type = cols.getOrNull(3)?.trim() ?: ""
+            val meaning = cols.getOrNull(4)?.trim() ?: ""
 
-            if (col0.toIntOrNull() != null) {
-                if (currentJapanese.isNotBlank()) {
-                    list.add(
-                        VocabularyEntity(
-                            japanese = currentJapanese,
-                            reading = currentReading.ifBlank { currentJapanese },
-                            romaji = currentRomaji,
-                            type = currentType.ifBlank { "noun" },
-                            meaning = currentMeaning,
-                            jlptLevel = jlptLevel
-                        )
-                    )
-                }
-                currentJapanese = col1
-                currentRomaji = col2
-                currentType = col3
-                currentMeaning = col4
-                currentReading = ""
-            } else {
-                if (col2.isNotBlank() && currentReading.isBlank()) {
-                    currentReading = col2
-                }
-            }
-        }
+            if (kanji.isBlank() && kana.isBlank()) continue
 
-        if (currentJapanese.isNotBlank()) {
             list.add(
                 VocabularyEntity(
-                    japanese = currentJapanese,
-                    reading = currentReading.ifBlank { currentJapanese },
-                    romaji = currentRomaji,
-                    type = currentType.ifBlank { "noun" },
-                    meaning = currentMeaning,
+                    japanese = if (kanji.isNotBlank()) kanji else kana,
+                    reading = if (kana.isNotBlank()) kana else kanji,
+                    romaji = romaji,
+                    type = if (type.isNotBlank()) type else "Noun",
+                    meaning = meaning,
                     jlptLevel = jlptLevel
                 )
             )
@@ -76,7 +51,7 @@ class CsvImporter(private val context: Context) {
         val result = mutableListOf<String>()
         val sb = StringBuilder()
         var inQuotes = false
-        
+
         for (c in line) {
             when {
                 c == '"' -> inQuotes = !inQuotes
