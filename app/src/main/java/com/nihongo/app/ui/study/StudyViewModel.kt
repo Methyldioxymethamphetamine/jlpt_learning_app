@@ -99,6 +99,14 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
         ttsManager.speak(text, speed)
     }
 
+    fun previousCard() {
+        if (_currentIndex.value > 0) {
+            _currentIndex.value = _currentIndex.value - 1
+            _isRevealed.value = false
+            _sessionComplete.value = false
+        }
+    }
+
     fun answerCard(known: Boolean) {
         val currentDeck = _deck.value
         val index = _currentIndex.value

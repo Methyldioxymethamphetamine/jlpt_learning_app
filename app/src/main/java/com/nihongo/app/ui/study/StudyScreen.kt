@@ -45,6 +45,7 @@ fun StudyScreen(viewModel: StudyViewModel = viewModel()) {
                 isRevealed = isRevealed,
                 onToggleReveal = { viewModel.toggleReveal() },
                 onPronounce = { viewModel.pronounceWord(currentCard.item.vocabulary.japanese) },
+                onPrevious = { viewModel.previousCard() },
                 onKnow = { viewModel.answerCard(true) },
                 onDontKnow = { viewModel.answerCard(false) }
             )
@@ -137,6 +138,7 @@ fun FlashcardView(
     isRevealed: Boolean,
     onToggleReveal: () -> Unit,
     onPronounce: () -> Unit,
+    onPrevious: () -> Unit,
     onKnow: () -> Unit,
     onDontKnow: () -> Unit
 ) {
@@ -221,8 +223,16 @@ fun FlashcardView(
 
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(16.dp)
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ) {
+            if (currentIndex > 0) {
+                OutlinedButton(
+                    onClick = onPrevious,
+                    modifier = Modifier.height(50.dp)
+                ) {
+                    Text("Last")
+                }
+            }
             Button(
                 onClick = onDontKnow,
                 colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.errorContainer, contentColor = MaterialTheme.colorScheme.onErrorContainer),
