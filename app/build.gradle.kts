@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.nihongo.app"
-        minSdk = 26
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -68,11 +68,6 @@ dependencies {
     implementation("androidx.room:room-runtime:$roomVersion")
     implementation("androidx.room:room-ktx:$roomVersion")
     ksp("androidx.room:room-compiler:$roomVersion")
-
-    // Apache POI for XLSX import
-    implementation("org.apache.poi:poi-ooxml:5.2.5") {
-        exclude(group = "xml-apis", module = "xml-apis")
-    }
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
